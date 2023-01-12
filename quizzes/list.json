@@ -1,0 +1,12 @@
+{
+    "quizzes": [
+        {
+            "name": "GPI",
+            "fileName": "gpi"
+        },
+        {
+            "name": "FIS",
+            "fileName": "fis"
+        }
+    ]
+}
