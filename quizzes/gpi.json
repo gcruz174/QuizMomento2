@@ -1462,24 +1462,6 @@
             "answerIndex": 1
         },
         {
-            "name": "Gran parte del esfuerzo del control de costos consiste en… ",
-            "answers": [
-                {
-                    "name": "Hacer presupuestos en tiempo real."
-                },
-                {
-                    "name": "No dejar que los interesados añadan cosas y por tanto modifiquen el presupuesto. "
-                },
-                {
-                    "name": "Analizar la relación entre el uso de los fondos del proyecto y el trabajo real efectuado."
-                },
-                {
-                    "name": "Lidiar con las presiones el cliente para añadir funcionalidades. "
-                }
-            ],
-            "answerIndex": 0
-        },
-        {
             "name": "¿Cómo se puede indicar que la tarea sucesora debe comenzar en el 25% de la tarea predecesora?",
             "answers": [
                 {
