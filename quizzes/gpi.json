@@ -1714,24 +1714,6 @@
             "answerIndex": 2
         },
         {
-            "name": "Tu compañía ha ejecutado varios proyectos similares al que te han encomendado en este momento. ¿Cuál es la mejor forma de usar la información de los proyectos anteriores? ",
-            "answers": [
-                {
-                    "name": "Rechazar el PMP de proyectos anteriores. "
-                },
-                {
-                    "name": "Aprovechar las lecciones aprendidas y cualquier otra información que existe en la empresa de otros proyectos anteriores."
-                },
-                {
-                    "name": "Usar la estimación paramétrica basada en proyectos anteriores. "
-                },
-                {
-                    "name": "Desestimar toda la información anterior y empezar desde cero el proyecto, puesto que por mucho que se parezca cada proyecto es diferente. "
-                }
-            ],
-            "answerIndex": 1
-        },
-        {
             "name": "Está gestionando un proyecto de construcción de un tren, cuando tu cliente informa que debe haber un cambio en el cronograma, se debe entregar antes de lo previsto. ¿Qué es lo mejor que se puede hacer?",
             "answers": [
                 {
@@ -1766,24 +1748,6 @@
                 }
             ],
             "answerIndex": 1
-        },
-        {
-            "name": "Los cambios en el presupuesto… ",
-            "answers": [
-                {
-                    "name": "No se admiten cambios en el presupuesto. "
-                },
-                {
-                    "name": ""
-                },
-                {
-                    "name": "Ninguna de las afirmaciones anteriores es real ni se efectúan con respecto al presupuesto. "
-                },
-                {
-                    "name": "Debe aprobarlos el director del proyecto directamente (como máximo responsable). "
-                }
-            ],
-            "answerIndex": 0
         },
         {
             "name": "El ACP se formaliza en: ",
@@ -1837,7 +1801,7 @@
                     "name": "Comienzo a Comienzo."
                 }
             ],
-            "answerIndex": 2
+            "answerIndex": 1
         },
         {
             "name": "¿Cuál de los grupos de procesos contiene el desarrollo del ACP y la identificación de los interesados? ",
