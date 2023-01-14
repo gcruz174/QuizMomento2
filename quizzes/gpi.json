@@ -409,24 +409,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Cómo se puede indicar que la tarea sucesora comience tres días después de que comience la predecesora? ",
-      "answers": [
-        {
-          "name": "Con una dependencia “comienzo a comienzo” y un retraso de tres días."
-        },
-        {
-          "name": "Con una dependencia “fin a comienzo” y un retraso de tres días. "
-        },
-        {
-          "name": "Ninguna de las otras es cierta. "
-        },
-        {
-          "name": "Con una dependencia “fin a fin” y un adelanto de tres días. "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
       "name": "En caso de incumplimiento de la planificación nos deberíamos centrar en: ",
       "answers": [
         {
@@ -581,24 +563,6 @@
         },
         {
           "name": "De seguimiento y control. "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
-      "name": "¿Cuál de los siguientes procesos se encarga de sumar los costes estimados de las actividades individuales? ",
-      "answers": [
-        {
-          "name": "Determinar el presupuesto."
-        },
-        {
-          "name": "Controlar los costos. "
-        },
-        {
-          "name": "Estimar los costos. "
-        },
-        {
-          "name": "Planificar los costos. "
         }
       ],
       "answerIndex": 0
@@ -1516,25 +1480,7 @@
       "answerIndex": 3
     },
     {
-      "name": "Un sistema de autorización de los trabajos: ",
-      "answers": [
-        {
-          "name": "Autoriza a los interesados a testear los entregables. "
-        },
-        {
-          "name": "Se asegura de que cada paquete de trabajo se ejecuta en el momento adecuado, siguiendo una"
-        },
-        {
-          "name": "Autoriza al director de proyecto a gastar más dinero en su trabajo. "
-        },
-        {
-          "name": "Autoriza a los interesados a implementar cambios en los entregables sin aviso previo. "
-        }
-      ],
-      "answerIndex": 1
-    },
-    {
-      "name": "Eres el director de proyecto al desarrollo de un software y de repente el patrocinador quiebra y cancela el",
+      "name": "Eres el director de proyecto al desarrollo de un software y de repente el patrocinador quiebra y cancela el proyecto ¿Qué debes hacer?",
       "answers": [
         {
           "name": "Llevar a cabo los procesos de cierre."
@@ -1583,24 +1529,6 @@
         },
         {
           "name": "Acelerar la realización de las tarea del camino crítico."
-        }
-      ],
-      "answerIndex": 3
-    },
-    {
-      "name": "Los interesados de un proyecto. ",
-      "answers": [
-        {
-          "name": "Son los patrocinadores. "
-        },
-        {
-          "name": "Son los destinatarios del producto. "
-        },
-        {
-          "name": "Ninguna. "
-        },
-        {
-          "name": "Pueden tener influencia negativa o positiva en el proyecto."
         }
       ],
       "answerIndex": 3
@@ -1676,24 +1604,6 @@
         }
       ],
       "answerIndex": 1
-    },
-    {
-      "name": "¿Cuál de los siguientes procesos genera una lista de actividades a parir de la",
-      "answers": [
-        {
-          "name": "Estimar los recursos de las actividades.  "
-        },
-        {
-          "name": "Estimar la duración de las actividades. "
-        },
-        {
-          "name": "Ninguna de ellas."
-        },
-        {
-          "name": "Secuenciar las actividades. "
-        }
-      ],
-      "answerIndex": 2
     },
     {
       "name": "Está gestionando un proyecto de construcción de un tren, cuando tu cliente informa que debe haber un cambio en el cronograma, se debe entregar antes de lo previsto. ¿Qué es lo mejor que se puede hacer?",
@@ -2917,7 +2827,7 @@
       "name": "El sistema de autorización de los trabajos: ",
       "answers": [
         {
-          "name": "Se asegura de que cada paquete de trabajo se ejecuta en el momento adecuado, siguiente una secuencia bien trazada. "
+          "name": "Se asegura de que cada paquete de trabajo se ejecuta en el momento adecuado, siguiendo una secuencia bien trazada. "
         },
         {
           "name": "Autoriza a los interesados a implementar cambios en los entregables sin aviso previo "
@@ -4003,24 +3913,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Estudiar la ingeniería en informática es un proyecto? ",
-      "answers": [
-        {
-          "name": "Sí es un proyecto. "
-        },
-        {
-          "name": "No es un proyecto porque no produce un producto único. "
-        },
-        {
-          "name": "Es un trabajo operativo. "
-        },
-        {
-          "name": "No es un proyecto porque no es temporal. "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
       "name": "¿Cómo se puede indicar que la tarea sucesora comience tras días después de que comience la predecesora? ",
       "answers": [
         {
@@ -4088,24 +3980,6 @@
         },
         {
           "name": "Desarrollar el cronograma "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
-      "name": "¿Cuál de los siguientes NO es un elemento del ‘Plan de Dirección del Proyecto’? ",
-      "answers": [
-        {
-          "name": "Línea base del cronograma "
-        },
-        {
-          "name": "Todos lo son "
-        },
-        {
-          "name": "Plan de gestión de riesgos "
-        },
-        {
-          "name": "Plan de gestión de alcance "
         }
       ],
       "answerIndex": 0
@@ -4345,24 +4219,6 @@
       "answerIndex": 2
     },
     {
-      "name": "¿Estudiar Ingeniería Informática es un proyecto? ",
-      "answers": [
-        {
-          "name": "No porque no produce un producto único. "
-        },
-        {
-          "name": "Si."
-        },
-        {
-          "name": "Es un trabajo operativo. "
-        },
-        {
-          "name": "No, porque no es temporal. "
-        }
-      ],
-      "answerIndex": 1
-    },
-    {
       "name": "El director de proyectos, ¿debe poseer? ",
       "answers": [
         {
@@ -4469,24 +4325,6 @@
         }
       ],
       "answerIndex": 1
-    },
-    {
-      "name": "¿Si el valor ganado (EV)=200, el coste real (AC)=400, el valor planificado (PV)=325, cuál es el índice de Desempeño del Costo (CPI)?",
-      "answers": [
-        {
-          "name": "0.8 "
-        },
-        {
-          "name": "50 "
-        },
-        {
-          "name": "0.5 "
-        },
-        {
-          "name": "25 "
-        }
-      ],
-      "answerIndex": 2
     },
     {
       "name": "¿Cual de los siguientes no es un interesado del proyecto? ",
