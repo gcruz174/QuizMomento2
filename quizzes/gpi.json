@@ -1606,24 +1606,6 @@
       "answerIndex": 3
     },
     {
-      "name": "El proceso de \"Controlar Alcance\" pertenece al grupo de procesos… ",
-      "answers": [
-        {
-          "name": "Ejecución. "
-        },
-        {
-          "name": "Planificación."
-        },
-        {
-          "name": "Iniciación. "
-        },
-        {
-          "name": "Ninguno. "
-        }
-      ],
-      "answerIndex": 1
-    },
-    {
       "name": "¿Cuál de las siguientes afirmaciones NO es una salida del grupo de procesos de la Dirección y Gestión del Proyecto? ",
       "answers": [
         {
@@ -4201,24 +4183,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Cuál de las siguientes afirmaciones NO es una salida del Control Integrado de Cambios? ",
-      "answers": [
-        {
-          "name": "Las propias peticiones de cambio recomendadas por los interesados "
-        },
-        {
-          "name": "Validación de la reparación de los defectos "
-        },
-        {
-          "name": "Las peticiones de los cambios aprobadas "
-        },
-        {
-          "name": "Las peticiones de cambio denegadas "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
       "name": "¿Cuál de estas afirmaciones NO es cierta en un ACP? ",
       "answers": [
         {
@@ -4286,24 +4250,6 @@
         },
         {
           "name": "Factores medioambientales de la empresa "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
-      "name": "¿Cuál de las siguientes NO es una recomendación de PMBOK como criterio para estructurar el primer nivel de descomposición de la EDT? ",
-      "answers": [
-        {
-          "name": "Por grupos de procesos "
-        },
-        {
-          "name": "Por fases del ciclo de vida "
-        },
-        {
-          "name": "Por entregables "
-        },
-        {
-          "name": "Por subproyectos "
         }
       ],
       "answerIndex": 0
@@ -4489,24 +4435,6 @@
       "answerIndex": 2
     },
     {
-      "name": "¿Cuál de las siguientes no es una recomendación de PMBOK como criterio para estructurar el primer nivel de descomposición de la EDT? ",
-      "answers": [
-        {
-          "name": "Por subproyectos. "
-        },
-        {
-          "name": "Por entregables. "
-        },
-        {
-          "name": "Por fases del ciclo de vida. "
-        },
-        {
-          "name": "Por grupos de procesos."
-        }
-      ],
-      "answerIndex": 3
-    },
-    {
       "name": "¿Cuál de las siguientes definiciones describe mejor el proceso Definir el alcance? ",
       "answers": [
         {
@@ -4642,7 +4570,7 @@
           "name": "Viernes"
         }
       ],
-      "answerIndex": 0
+      "answerIndex": 3
     },
     {
       "name": "¿Cuántas son las áreas de conocimiento de PMBOK?",
