@@ -886,24 +886,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Si el valor ganado (EV)=150, el coste real (AC)=400, el valor planificado (PV)=300, cuál es el índice de  Desempeño del Cronograma (SPI)? ",
-      "answers": [
-        {
-          "name": "0.5."
-        },
-        {
-          "name": "200. "
-        },
-        {
-          "name": "1.5. "
-        },
-        {
-          "name": "-0.5. "
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
       "name": "¿Cuál de los siguientes procesos genera una lista de actividades a partir de la EDT?",
       "answers": [
         {
@@ -3613,24 +3595,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Si el valor ganado (EV)=350, el coste real (AC)=400, el valor planificado (PV)=325, cuál es la variación del cronograma (SV)?  ",
-      "answers": [
-        {
-          "name": "-25 "
-        },
-        {
-          "name": "350 "
-        },
-        {
-          "name": "-75 "
-        },
-        {
-          "name": "25 "
-        }
-      ],
-      "answerIndex": 3
-    },
-    {
       "name": "¿Cuál de las siguientes técnicas de estimación es menos costosa?  ",
       "answers": [
         {
@@ -3964,7 +3928,7 @@
           "name": "Los usuarios "
         }
       ],
-      "answerIndex": 0
+      "answerIndex": 2
     },
     {
       "name": "¿Cuál de los siguientes NO es un proceso del área de conocimiento de Gestión del tiempo del proyecto? ",
