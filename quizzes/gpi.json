@@ -3913,24 +3913,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Cuál de los siguientes NO es un interesado en el proyecto?",
-      "answers": [
-        {
-          "name": "Las empresas de la competencia "
-        },
-        {
-          "name": "Las empresas proveedores "
-        },
-        {
-          "name": "Todos son interesados "
-        },
-        {
-          "name": "Los usuarios "
-        }
-      ],
-      "answerIndex": 2
-    },
-    {
       "name": "¿Cuál de los siguientes NO es un proceso del área de conocimiento de Gestión del tiempo del proyecto? ",
       "answers": [
         {
