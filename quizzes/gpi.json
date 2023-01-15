@@ -3757,24 +3757,6 @@
       "answerIndex": 0
     },
     {
-      "name": "¿Qué significa una dependencia ‘fin a comienzo’ entre una tarea resumen predecesora y una tarea normal sucesora?",
-      "answers": [
-        {
-          "name": "La tarea sucesora comienza cuando finaliza la primera subtarea "
-        },
-        {
-          "name": "La tarea sucesora comienza cuando finaliza la última subtarea"
-        },
-        {
-          "name": "La tarea sucesora termina cuando comienza la tarea resumen "
-        },
-        {
-          "name": "No se puede hacer"
-        }
-      ],
-      "answerIndex": 0
-    },
-    {
       "name": "¿Quién redacta el 'Enunciado del trabajo del Proyecto'? ",
       "answers": [
         {
@@ -4336,7 +4318,7 @@
           "name": "Viernes"
         }
       ],
-      "answerIndex": 3
+      "answerIndex": 0
     },
     {
       "name": "¿Cuántas son las áreas de conocimiento de PMBOK?",
