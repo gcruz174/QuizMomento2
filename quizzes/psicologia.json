@@ -1,7 +1,7 @@
 {
 "questions": [
     {
-        "name": "1.Lutero y Calvino alejaban la psicopatología infantil del demonismo. (",
+        "name": "1.Lutero y Calvino alejaban la psicopatología infantil del demonismo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -25,7 +25,7 @@
         "answerIndex": 0
     },
     {
-        "name": "3. La galactosemia si no se atiende pronto produce retraso mental. (",
+        "name": "3. La galactosemia si no se atiende pronto produce retraso mental.",
         "answers": [
             {
                 "name": "Verdadero"
@@ -37,7 +37,7 @@
         "answerIndex": 0
     },
     {
-        "name": "4. Los niños con esquizofrenia infantil tienen mayor probabilidad de tener familiares con trastornos mentales que los autistas. (",
+        "name": "4. Los niños con esquizofrenia infantil tienen mayor probabilidad de tener familiares con trastornos mentales que los autistas",
         "answers": [
             {
                 "name": "Verdadero"
@@ -97,7 +97,7 @@
         "answerIndex": 0
     },
     {
-        "name": "9. Anorexia, bulimia purgativa y obesidad tienen en común la distorsión de la imagen corporal (",
+        "name": "9. Anorexia, bulimia purgativa y obesidad tienen en común la distorsión de la imagen corporal",
         "answers": [
             {
                 "name": "Verdadero"
@@ -109,7 +109,7 @@
         "answerIndex": 1
     },
     {
-        "name": "10. El gran mal epiléptico correlaciona con retraso mental (",
+        "name": "10. El gran mal epiléptico correlaciona con retraso mental ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -121,7 +121,7 @@
         "answerIndex": 1
     },
     {
-        "name": "11. Las disartrias son sinónimo de dislalias funcionales o dinámicas (",
+        "name": "11. Las disartrias son sinónimo de dislalias funcionales o dinámicas ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -133,7 +133,7 @@
         "answerIndex": 1
     },
     {
-        "name": "12. En la enfermedad de Turner se da psicopatología en la post-adolescencia (",
+        "name": "12. En la enfermedad de Turner se da psicopatología en la post-adolescencia ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -145,7 +145,7 @@
         "answerIndex": 1
     },
     {
-        "name": "13. En los espasmos de la vejiga solo cabe tratamiento médico (",
+        "name": "13. En los espasmos de la vejiga solo cabe tratamiento médico ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -157,7 +157,7 @@
         "answerIndex": 1
     },
     {
-        "name": "14. El síndrome de Down se da en la misma proporción que la esquizofrenia (",
+        "name": "14. El síndrome de Down se da en la misma proporción que la esquizofrenia ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -169,7 +169,7 @@
         "answerIndex": 1
     },
     {
-        "name": "15. En los retrasados mentales es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario (",
+        "name": "15. En los retrasados mentales es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -181,7 +181,7 @@
         "answerIndex": 1
     },
     {
-        "name": "16. Los trastornos generalizados del desarrollo y en el síndrome de Turner hay problemas de socialización de forma endógena (",
+        "name": "16. Los trastornos generalizados del desarrollo y en el síndrome de Turner hay problemas de socialización de forma endógena ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -205,7 +205,7 @@
         "answerIndex": 1
     },
     {
-        "name": "18. El asma o la obesidad están relacionadas en su etiología con una dishabilidad para afrontar el problema (",
+        "name": "18. El asma o la obesidad están relacionadas en su etiología con una dishabilidad para afrontar el problema",
         "answers": [
             {
                 "name": "Verdadero"
@@ -241,7 +241,7 @@
         "answerIndex": 0
     },
     {
-        "name": "21. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad. (",
+        "name": "21. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -263,30 +263,6 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "23. El síndrome de Rett en contraste con el Asperger, presenta una grave alteración de desarrollo de lenguaje expresivo y receptivo. (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "24. Según la categorización realizada por Achenbach los trastornos de ansiedad se encuadran dentro de los trastornos de externalización (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
         "name": "25. La irritabilidad es una característica común de la depresión en la infancia y en la edad adulta (",
@@ -421,7 +397,7 @@
         "answerIndex": 1
     },
     {
-        "name": "36. El llamado síndrome  de Hunter es una enfermedad  de las denominadas (de transmisión sexual) (",
+        "name": "36. El llamado síndrome  de Hunter es una enfermedad  de las denominadas de transmisión sexual ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -493,7 +469,7 @@
         "answerIndex": 1
     },
     {
-        "name": "43. Los modelos  transformacionales    postulan  que los rasgos  pueden  variar ",
+        "name": "43. Los modelos  transformacionales  postulan  que los rasgos  pueden  variar ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -505,7 +481,7 @@
         "answerIndex": 0
     },
     {
-        "name": "44. La fenilsetonuria   se debe a un gen dominante  (",
+        "name": "44. La fenilsetonuria se debe a un gen dominante  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -637,7 +613,7 @@
         "answerIndex": 1
     },
     {
-        "name": "55. El síndrome  de Down, igual que el de Klinesfelter, se debe a una aberración  de un cromosoma ligado al sexo (",
+        "name": "55. El síndrome  de Down, igual que el de Klinesfelter, se debe a una aberración de un cromosoma ligado al sexo (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -661,7 +637,7 @@
         "answerIndex": 0
     },
     {
-        "name": "57. El autismo  presenta una dificultad para interpretar el refuerzo  (",
+        "name": "57. El autismo presenta una dificultad para interpretar el refuerzo  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -673,19 +649,7 @@
         "answerIndex": 0
     },
     {
-        "name": "58. La galactosemia  puede provocar retraso mental a pesar de tener un tratamiento  médico  si hace dos años que fue diagnosticada (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "59. En el síndrome  de Hunter la hiperactividad  en algunos casos va en desarrollo  poner ",
+        "name": "58. La galactosemia puede provocar retraso mental a pesar de tener un tratamiento  médico  si hace dos años que fue diagnosticada (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -745,19 +709,7 @@
         "answerIndex": 1
     },
     {
-        "name": "64. A un niño de 13 años que debido a una lesión cerebral producida por un accidente desarrolla retraso mental se le puede diagnosticar demencia más retraso mental (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "65. La galactosemia  tratada  un año después  de ser diagnosticada   evitará  el retraso  mental  (",
+        "name": "65. La galactosemia  tratada  un año después  de ser diagnosticada  evitará  el retraso  mental  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -793,7 +745,7 @@
         "answerIndex": 1
     },
     {
-        "name": "68. Para distinguir  entre atetosis  y rigidez debe atenderse  al reflejo  de Babinsky  (",
+        "name": "68. Para distinguir entre atetosis  y rigidez debe atenderse  al reflejo  de Babinsky  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -817,7 +769,7 @@
         "answerIndex": 0
     },
     {
-        "name": "70. El aura presente  en las crisis  parciales  indica  en qué lugar comienza   la crisis  (",
+        "name": "70. El aura presente  en las crisis  parciales indica en qué lugar comienza la crisis  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -865,7 +817,7 @@
         "answerIndex": 0
     },
     {
-        "name": "74. Los afásicos  al igual  que  los autistas  no mantienen   contacto   ocular  aunque   son  mejores  en lenguaje  (",
+        "name": "74. Los afásicos al igual que los autistas no mantienen contacto ocular aunque son  mejores  en lenguaje  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -877,7 +829,7 @@
         "answerIndex": 1
     },
     {
-        "name": "75. Los anoréxicos tienen  una  fuerte  falta  de apetito  (",
+        "name": "75. Los anoréxicos tienen una fuerte falta de apetito (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -889,7 +841,7 @@
         "answerIndex": 1
     },
     {
-        "name": "76. Modelado es una técnica  eficaz  para  niños  no cooperativos    (",
+        "name": "76. Modelado es una técnica eficaz para niños no cooperativos    (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -901,7 +853,7 @@
         "answerIndex": 1
     },
     {
-        "name": "77. Es bueno  ir acostumbrando    a los niños  con  retraso  mental  a mensajes   contradictorios (",
+        "name": "77. Es bueno ir acostumbrando a los niños con retraso mental a mensajes contradictorios (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -925,7 +877,7 @@
         "answerIndex": 1
     },
     {
-        "name": "79. El control del pis se hace mas rápido con reforzamiento parcial que contingente y también es más resistente a laextinción (",
+        "name": "79. El control del pis se hace mas rápido con reforzamiento parcial que contingente y también es más resistente a la extinción (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -937,7 +889,7 @@
         "answerIndex": 1
     },
     {
-        "name": "80. La más  frecuente etiología   del síndrome   de Down  es la trisomía del 21. Y los mosaicismos son los que presentan  mejor  CI y rasgos  morfológicos   menos  acusados    (",
+        "name": "80. La más frecuente etiología del síndrome de Down es la trisomía del 21.Y los mosaicismos son los que presentan mejor CI y rasgos morfológicos menos acusados (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -949,7 +901,7 @@
         "answerIndex": 0
     },
     {
-        "name": "81. Los trastornos  generalizados   del desarrollo  y el retraso  mental  tienen  en común  el deterioro cualitativo  en el desarrollo  de la interacción   social (",
+        "name": "81. Los trastornos generalizados del desarrollo y el retraso mental tienen en común el deterioro cualitativo en el desarrollo de la interacción social (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -959,18 +911,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "82. El estado  crepuscular   consiste  en una ausencia  alargada  que se acompaña   de automatismos. (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "83. Un niño con retraso mental grave o profundo responderá mejor a los tratamientos conductuales que a los cognitivos (",
@@ -997,7 +937,7 @@
         "answerIndex": 0
     },
     {
-        "name": "85. Las  rinolalias  cerradas  afectan  a: pato, pelota   y gaviota  (",
+        "name": "85. Las rinolalias cerradas afectan a: pato, pelota y gaviota  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1009,7 +949,7 @@
         "answerIndex": 1
     },
     {
-        "name": "86. El acto  de dar un beso a un ser querido  no se ve afectado   por la apraxia  ideomotriz   (",
+        "name": "86. El acto de dar un beso a un ser querido no se ve afectado por la apraxia ideomotriz(",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1021,7 +961,7 @@
         "answerIndex": 0
     },
     {
-        "name": "87. En la dislalia  endógena   y en   la específica   hay diferencias   en la etiología (",
+        "name": "87. En la dislalia endógena y en la específica hay diferencias en la etiología (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1033,7 +973,7 @@
         "answerIndex": 0
     },
     {
-        "name": "88. En el tratamiento   con  anoréxicos   solo  se usa  condicionamiento     clásico  (",
+        "name": "88. En el tratamiento con anoréxicos solo se usa condicionamiento clásico  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1045,7 +985,7 @@
         "answerIndex": 1
     },
     {
-        "name": "89. En la corea  de hungtinton   los tics  pueden  ser  modificables   (",
+        "name": "89. En la corea de hungtinton los tics pueden ser modificables   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1057,7 +997,7 @@
         "answerIndex": 1
     },
     {
-        "name": "90. En el retraso  mental  los programas   de refuerzo   no son  necesarios   si queremos   que  el niño mantenga   un alto  nivel  de imitación   (",
+        "name": "90. En el retraso mental los programas de refuerzo no son necesarios si queremos que el niño mantenga un alto nivel de imitación   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1069,7 +1009,7 @@
         "answerIndex": 1
     },
     {
-        "name": "91. La  falta  de apetito  es común  de la depresión   y de la anorexia   infantil  (",
+        "name": "91. La falta de apetito es común de la depresión y de la anorexia infantil  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1081,7 +1021,7 @@
         "answerIndex": 1
     },
     {
-        "name": "92. El síndrome   de Down  y Wilson   comienzan    a los 2-3  años  (",
+        "name": "92. El síndrome de Down y Wilson comienzan a los 2-3 años  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1093,7 +1033,7 @@
         "answerIndex": 1
     },
     {
-        "name": "93. La  reversibilidad    del  asma  es un aspecto   diferenciador    de otras  enfermedades     pulmonares    ",
+        "name": "93. La reversibilidad del asma es un aspecto diferenciador de otras enfermedades pulmonares    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1105,7 +1045,7 @@
         "answerIndex": 0
     },
     {
-        "name": "94. En las fobias  existe  un miedo  desproporcionado al objeto   pero  el niño  es consciente    de su irracionalidad   (",
+        "name": "94. En las fobias existe un miedo desproporcionado al objeto pero el niño es consciente de su irracionalidad   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1117,7 +1057,7 @@
         "answerIndex": 1
     },
     {
-        "name": "95. En los síndromes   de Turner,   Sach  y Klinesfelter    existe   tanto  demencia   como  retraso   mental (",
+        "name": "95. En los síndromes de Turner, Sach y Klinesfelter existe tanto demencia como retraso mental (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1129,7 +1069,7 @@
         "answerIndex": 1
     },
     {
-        "name": "96. Las  disartrias   tienen  explicación   neuropsicológica    ",
+        "name": "96. Las disartrias tienen explicación neuropsicológica    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1165,7 +1105,7 @@
         "answerIndex": 0
     },
     {
-        "name": "99. A  nivel  estructural  ocurre  las  dislalias  finales  o dinámicas las  cuales  tienen  déficits  en  la construcción  de  palabras  pero  no  en  silabas  (",
+        "name": "99. A nivel estructural ocurre las dislalias finales o dinámicas las cuales tienen déficits en la construcción de palabras pero no en silabas  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1177,7 +1117,7 @@
         "answerIndex": 1
     },
     {
-        "name": "100. En los cólicos de la primera semana , el rechazo de la comida es más de tipo interactivo que constitucional ",
+        "name": "100. En los cólicos de la primera semana, el rechazo de la comida es más de tipo interactivo que constitucional ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1189,7 +1129,7 @@
         "answerIndex": 0
     },
     {
-        "name": "101. El  pequeño  mal  epiléctico  se  caracteriza  por  una  fase  incompleta   tónica  y  ausencia   de  la drómica (",
+        "name": "101. El pequeño mal epiléctico se caracteriza por una fase incompleta tónica y ausencia de la drómica (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1201,7 +1141,7 @@
         "answerIndex": 1
     },
     {
-        "name": "102. La  migraña  clásica  presenta  síntomas  prodrómicos     ",
+        "name": "102. La migraña clásica presenta síntomas prodrómicos     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1213,7 +1153,7 @@
         "answerIndex": 0
     },
     {
-        "name": "103. La  depresión  y  la  distimta   infanto-juvenil   no  pueden  explicarse  mejor  por  la  ingesta  de sustancias  (",
+        "name": "103. La depresión y la distimia infanto-juvenil no pueden explicarse mejor por la ingesta de sustancias  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1225,7 +1165,7 @@
         "answerIndex": 1
     },
     {
-        "name": "104. Frente  al  DSM  los  estudios  empíricos   tienen  la  ventaja  de  ofrecer  datos  con  estabilidad transituacional,   utilizando  el  método  reflexivo  (",
+        "name": "104. Frente al DSM los estudios empíricos tienen la ventaja de ofrecer datos con estabilidad transituacional, utilizando el método reflexivo  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1237,7 +1177,7 @@
         "answerIndex": 1
     },
     {
-        "name": "105. En Wilson y hemiplejias derechas sin tratamiento pueden tener con el tiempo buen pronóstico de su CI. (",
+        "name": "106. El autista al igual que la afasia de desarrollo presenta juego imaginativo   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1249,19 +1189,7 @@
         "answerIndex": 1
     },
     {
-        "name": "106. El  autista  al  igual  que  la  afasia  de  desarrollo   presenta  juego  imaginativo   (",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "107. El  aura  epiléctica   se  da  al  inicio  del  pequeño  mal  (",
+        "name": "107. El aura epiléctica se da al inicio del pequeño mal  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1285,7 +1213,7 @@
         "answerIndex": 1
     },
     {
-        "name": "109. La  distimia  se  compaña  de  alucinaciones   y delirios  ",
+        "name": "109. La distimia se compaña de alucinaciones y delirios  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1309,7 +1237,7 @@
         "answerIndex": 1
     },
     {
-        "name": "111. La  ecolalia  es  típica  y  exclusiva   del  autismo  (",
+        "name": "111. La ecolalia es típica y exclusiva del autismo  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1321,7 +1249,7 @@
         "answerIndex": 1
     },
     {
-        "name": "112. Los  afásicos   y los  autistas  tienen  en  común  la  incapacidad para llevar a  cabo  juegos   simbólicos (",
+        "name": "112. Los afásicos y los autistas tienen en común la incapacidad para llevar a cabo juegos simbólicos (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1333,7 +1261,7 @@
         "answerIndex": 1
     },
     {
-        "name": "113. A  nivel  estructural,   ocurren   las  dislalias  fonales   o  dinámicas,  las  cuales tienen  déficit   en  la construcción    de  palabras   y  no  en  sílabas  ",
+        "name": "113. A nivel estructural, ocurren las dislalias fonales o dinámicas, las cuales tienen déficit en la construcción de palabras y no en sílabas  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1345,7 +1273,7 @@
         "answerIndex": 1
     },
     {
-        "name": "114. Como  los  espamos,   el  inicio  de  los  tics  no  tiene  finalidad   ",
+        "name": "114. Como los espamos, el inicio de los tics no tiene finalidad   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1357,7 +1285,7 @@
         "answerIndex": 1
     },
     {
-        "name": "115. La  evitación escolar es  un  criterio para  el  diagnóstico de  la  ansiedad excesiva ",
+        "name": "115. La evitación escolar es un criterio para el diagnóstico de la ansiedad excesiva ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1369,7 +1297,7 @@
         "answerIndex": 1
     },
     {
-        "name": "116. La  pérdida   -  amento   de  apetito   sin  régimen   es  un  criterio   suficiente   para  el  diagnóstico    de depresión    mayor  ",
+        "name": "116. La pérdida o aumento   de  apetito   sin  régimen   es  un  criterio   suficiente   para  el  diagnóstico    de depresión    mayor  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1381,7 +1309,7 @@
         "answerIndex": 1
     },
     {
-        "name": "117. La  fobia  escolar,   aparte   de  la  conducta   de  evitación,  los  niños  evitan   estar  en  casa  ",
+        "name": "117. La fobia escolar, aparte de la conducta de evitación, los niños evitan estar en casa  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1393,7 +1321,7 @@
         "answerIndex": 1
     },
     {
-        "name": "118. El  cuadro   depresivo   infantil   puede   tener   su  causa   en  el  consumo    de  drogas   ",
+        "name": "118. El cuadro depresivo infantil puede tener su causa en el consumo de drogas   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1405,7 +1333,7 @@
         "answerIndex": 0
     },
     {
-        "name": "119. Los  trastornos    que  se  producen   en  la  obesidad   son  mayores   en la  persona   obesa desde la adolescencia que desde adulta ",
+        "name": "119. Los trastornos que se producen en la obesidad son mayores en la persona obesa desde la adolescencia que desde adulta ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1417,7 +1345,7 @@
         "answerIndex": 0
     },
     {
-        "name": "120. Las ecolalias  constituyen  una  alteración  característica a nivel articulatorio del autismo ",
+        "name": "120. Las ecolalias constituyen una alteración característica a nivel articulatorio del autismo ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1429,7 +1357,7 @@
         "answerIndex": 0
     },
     {
-        "name": "121. En la epilepsia  para  tratar  la fobia se  usan  únicamente técnicas  de condicionamiento  clásico ",
+        "name": "121. En la epilepsia para tratar la fobia se usan únicamente técnicas de condicionamiento clásico ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1441,7 +1369,7 @@
         "answerIndex": 1
     },
     {
-        "name": "122. En las  maduropatias. la variable  somatógena  se  refiere  a  problemas  orgánicos  ",
+        "name": "122. En las maduropatias la variable somatógena se refiere a problemas orgánicos  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1453,7 +1381,7 @@
         "answerIndex": 0
     },
     {
-        "name": "123. En las maduropatias. la  variable etógena  se refiere  a  problemas  de  ambiente   ",
+        "name": "123. En las maduropatias la variable etógena se refiere a problemas de ambiente   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1465,7 +1393,7 @@
         "answerIndex": 0
     },
     {
-        "name": "124. Una de las causas  del  RM  es el excesivo  proteccionismo   de  los  padres  ",
+        "name": "124. Una de las causas del RM es el excesivo proteccionismo de los padres  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1477,7 +1405,7 @@
         "answerIndex": 0
     },
     {
-        "name": "125. La bulimia  voraz  se puede  diagnosticar  si  hay  una  psicopatología   normal-moderada y emocionales  al comer  ",
+        "name": "125. La bulimia voraz se puede diagnosticar si hay una psicopatología normal-moderada y emocionales al comer  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1489,7 +1417,7 @@
         "answerIndex": 0
     },
     {
-        "name": "126. El pequeño  mal  epiléptico  mioclonico  o  miotónico  son  convulciones   de  manos  y  pies  ",
+        "name": "126. El pequeño mal epiléptico mioclonico o miotónico son convulciones de manos y pies  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1501,7 +1429,7 @@
         "answerIndex": 0
     },
     {
-        "name": "127. En el  tratamiento  con  anoréxicos  solo  se  usa  el  condicionamiento   clásico  (",
+        "name": "127. En el tratamiento con anoréxicos solo se usa el condicionamiento clásico  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1513,7 +1441,7 @@
         "answerIndex": 1
     },
     {
-        "name": "128. En la conducta  disocial, la dificultad  para  controlar  impulsos  la  diferencia   de  la  hiperactividad ",
+        "name": "128. En la conducta disocial, la dificultad para controlar impulsos la diferencia de la hiperactividad ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1525,7 +1453,7 @@
         "answerIndex": 1
     },
     {
-        "name": "129. En el  síndrome  de Wilson,  cuando  hay  deterioro  mental  solo  cabe  diagnosticar   RM  y  nunca demencia  (",
+        "name": "129. En el síndrome de Wilson, cuando hay deterioro mental solo cabe diagnosticar RM y nunca demencia  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1549,7 +1477,7 @@
         "answerIndex": 1
     },
     {
-        "name": "131. Factores  de deprivación sociocultural   los  podemos  encontrar en  maduropatia somatógena postnatal  ",
+        "name": "131. Factores de deprivación sociocultural los podemos encontrar en maduropatia somatógena postnatal  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1573,7 +1501,7 @@
         "answerIndex": 1
     },
     {
-        "name": "133. Los  rígidos  y  espásticos  tienen  un CI  el  mayor  que  los  a t e t ó s i c o s   (",
+        "name": "133. Los rígidos y espásticos tienen un CI el mayor que los atetósicos(",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1585,7 +1513,7 @@
         "answerIndex": 1
     },
     {
-        "name": "134. Las  deficiencias  en  inteligencia  aparecen  muy  determinadas   por  hemiplejia   del  lado  derecho ",
+        "name": "134. Las deficiencias en inteligencia aparecen muy determinadas por hemiplejia del lado derecho ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1597,7 +1525,7 @@
         "answerIndex": 0
     },
     {
-        "name": "135. Los  espásticos  son  los  paralíticos  cerebrales  que  tienen  mejor  fluidez  verbal  ",
+        "name": "135. Los espásticos son los paralíticos cerebrales que tienen mejor fluidez verbal  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1609,7 +1537,7 @@
         "answerIndex": 0
     },
     {
-        "name": "136. La frecuencia  de deficiencia   mental  es  más  del  doble  en  la  hemiplejia   derecha   del  cerebro   que en  la izquierda  ",
+        "name": "136. La frecuencia de deficiencia mental es más del doble en la hemiplejia derecha del cerebro que en la izquierda  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1621,7 +1549,7 @@
         "answerIndex": 0
     },
     {
-        "name": "137. Las  crisis  epilépticas  durante  las  primeras  semanas   de  vida  de  un  niño  se  caracterizan    por  ser subcorticales  y  sincrónicas   (",
+        "name": "137. Las crisis epilépticas durante las primeras semanas de vida de un niño se caracterizan por ser subcorticales y sincrónicas   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1633,7 +1561,7 @@
         "answerIndex": 1
     },
     {
-        "name": "138. Los  tics  se  realizan  durante  el  sueño  ",
+        "name": "138. Los tics se realizan durante el sueño  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1645,7 +1573,7 @@
         "answerIndex": 1
     },
     {
-        "name": "139. En  las  epilepsias,   las ausencias   atípicas  se  pueden  dar  en  S   Lennox- Gastaut   (",
+        "name": "139. En las epilepsias, las ausencias atípicas se pueden dar en SLennox- Gastaut   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1657,7 +1585,7 @@
         "answerIndex": 0
     },
     {
-        "name": "140. La cefalea  tensional  y  la  migraña   tienen  base  vascular   (vasoconstricción + vasodilatación)  ",
+        "name": "140. La cefalea tensional y la migraña tienen base vascular(vasoconstricción + vasodilatación)  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1669,7 +1597,7 @@
         "answerIndex": 1
     },
     {
-        "name": "141. Una  afasia  antes  de  los  9  años,  si  se  trata  tiene  un  buen  pronóstico,   aunque   sea  bilateral   ",
+        "name": "141. Una afasia antes de los 9 años, si se trata tiene un buen pronóstico, aunque sea bilateral   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1681,7 +1609,7 @@
         "answerIndex": 1
     },
     {
-        "name": "142. El asma  tratada  con  relajación   produce   el  mismo  efecto  que  la  extinción   de  la  tos  ",
+        "name": "142. El asma tratada con relajación produce el mismo efecto que la extinción de la tos  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1693,7 +1621,7 @@
         "answerIndex": 0
     },
     {
-        "name": "143. La autoevaluación   en  la  anorexia  y en la bulimia  están  altamente  modulados   por el peso y la figura  ",
+        "name": "143. La autoevaluación en la anorexia y en la bulimia están altamente modulados por el peso y la figura  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1705,7 +1633,7 @@
         "answerIndex": 0
     },
     {
-        "name": "144. Tanto  en  la  distimia  infanto-juvenil como  en  la  depresión   puede   aparecer   irritabilidad   ",
+        "name": "144. Tanto en la distimia infanto-juvenil como en la depresión puede aparecer irritabilidad   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1717,7 +1645,7 @@
         "answerIndex": 0
     },
     {
-        "name": "145. El espasticismo  se  acompaña  con  dificultad  para  manejar  conceptos (",
+        "name": "145. El espasticismo se acompaña con dificultad para manejar conceptos (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1741,7 +1669,7 @@
         "answerIndex": 0
     },
     {
-        "name": "147. El tópico/creencia errónea  sobre  sustancia  psicoactiva  lleva  al  consumo  (",
+        "name": "147. El tópico/creencia errónea sobre sustancia psicoactiva lleva al consumo  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1753,7 +1681,7 @@
         "answerIndex": 0
     },
     {
-        "name": "148. Watson  es  el creador  de  las  (biografías  infantiles)  (",
+        "name": "148. Watson es el creador de las biografías infantiles  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1765,7 +1693,7 @@
         "answerIndex": 1
     },
     {
-        "name": "149. En París  nace  la psicopatología infantil  (",
+        "name": "149. En París nace la psicopatología infantil  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1777,7 +1705,7 @@
         "answerIndex": 0
     },
     {
-        "name": "150. Lutero  asociaba  las  convulsiones   al  demonismo  (",
+        "name": "150. Lutero asociaba las convulsiones al demonismo  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1789,7 +1717,7 @@
         "answerIndex": 0
     },
     {
-        "name": "151. Achenbach,   con  su  clasificación   internalizante  -externalizante,   permite  empíricamente establecer  diferencias  entre  los  individuos  ",
+        "name": "151. Achenbach, con su clasificación internalizante-externalizante, permite empíricamente establecer diferencias entre los individuos  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1801,7 +1729,7 @@
         "answerIndex": 0
     },
     {
-        "name": "152. La  demencia  a  los  18 años  es  sinónimo  de  RM  ",
+        "name": "152. La demencia a los 18 años es sinónimo de RM  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1813,7 +1741,7 @@
         "answerIndex": 0
     },
     {
-        "name": "153. Los  abusos  sexuales  conllevan  siempre  trastorno   por  estrés  postraumático    e  hiperactividad (",
+        "name": "153. Los abusos sexuales conllevan siempre trastorno por estrés postraumático e hiperactividad (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1825,7 +1753,7 @@
         "answerIndex": 1
     },
     {
-        "name": "154. En  la  corea  de  Hungtinton   la  afectación   psicopatológica   se  manifiesta   solo  en  adultos ",
+        "name": "154. En la corea de Hungtinton la afectación psicopatológica se manifiesta solo en adultos ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1837,7 +1765,7 @@
         "answerIndex": 1
     },
     {
-        "name": "155. El  asma  se  puede  eliminar  completamente   con  el tratamiento conductual   (",
+        "name": "155. El asma se puede eliminar completamente con el tratamiento conductual   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1861,7 +1789,7 @@
         "answerIndex": 0
     },
     {
-        "name": "157.  TDAH prefiere auditivo que semántico. (",
+        "name": "157. TDAH prefiere auditivo que semántico. (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1885,7 +1813,7 @@
         "answerIndex": 1
     },
     {
-        "name": "159. Apraxia   Ideatoria   se  examina    con   doblar   papel:   ",
+        "name": "159. Apraxia Ideatoria se examina con doblar papel:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1897,7 +1825,7 @@
         "answerIndex": 0
     },
     {
-        "name": "160.  Los  estudios    de  anorexia   gemelar    han  demostrado     que  se  da  simultáneamente en  las  dos. ",
+        "name": "160.  Los estudios de anorexia gemelar han demostrado que se da simultáneamente en las dos. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1909,7 +1837,7 @@
         "answerIndex": 1
     },
     {
-        "name": "163. La  depresión   con  declaración   activa  se  relaciona   con  el  consumo   de  drogas   legales. ",
+        "name": "161. La depresión con declaración activa se relaciona con el consumo de drogas legales. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1921,7 +1849,7 @@
         "answerIndex": 0
     },
     {
-        "name": "164.  Los  niños  que  han  sufrido  malos  tratos  y  castigos   sufren  depresión   e  impulsividad. ",
+        "name": "162.  Los niños que han sufrido malos tratos y castigos sufren depresión e impulsividad. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1933,7 +1861,7 @@
         "answerIndex": 0
     },
     {
-        "name": "165.  La  migraña  se  descarta   de  las  teorías  de  personalidad   y  alimentación.    (",
+        "name": "163.  La migraña se descarta de las teorías de personalidad y alimentación.    (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1945,7 +1873,7 @@
         "answerIndex": 1
     },
     {
-        "name": "166.  En el trastorno disocial se explicita en el DSM IV que esta clínicamente afectada significativamente el entorno familiar y laboral (",
+        "name": "164.  En el trastorno disocial se explicita en el DSM IV que esta clínicamente afectada significativamente el entorno familiar y laboral (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1957,7 +1885,7 @@
         "answerIndex": 0
     },
     {
-        "name": "167.  Hay datos positivos de predisposición de consumo de drogas con la asertividad y la desmotivación escolar (",
+        "name": "165.  Hay datos positivos de predisposición de consumo de drogas con la asertividad y la desmotivación escolar (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1969,7 +1897,7 @@
         "answerIndex": 1
     },
     {
-        "name": "168.  Wilson   está  relacionado   con  Demencia   y  RM  excluyendo   los  trastornos   ligados   al sexo (",
+        "name": "166.  Wilson   está  relacionado   con  Demencia   y  RM  excluyendo   los  trastornos   ligados   al sexo (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1981,7 +1909,7 @@
         "answerIndex": 0
     },
     {
-        "name": "169.  A  la  edad  de  5 años, los  niños  dicen  con  mejor  fluidez   la  R,  LL  Y  Z· (",
+        "name": "167.  A la edad de 5 años, los niños dicen con mejor fluidez la  R,  LL  Y  Z· (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -1993,7 +1921,7 @@
         "answerIndex": 1
     },
     {
-        "name": "170.  Obesidad-Normalidad-Delgadez,   varían   considerablemente     a  lo  largo  de  la  vida como trastorno  (",
+        "name": "168.  Obesidad-Normalidad-Delgadez, varían considerablemente a lo largo de la vida como trastorno  (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2005,7 +1933,7 @@
         "answerIndex": 1
     },
     {
-        "name": "171.  En  la  definición     originaria     de la  anorexia    en  la  adolescencia      aparece    desde   el inicio    el concepto    de  anemia:    ",
+        "name": "169.  En la definición originaria de la anorexia en la adolescencia aparece desde el inicio el concepto de anemia:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2017,7 +1945,7 @@
         "answerIndex": 1
     },
     {
-        "name": "172.  Los  problemas   estructurales    del  lenguaje   y  la  gramática   están   menos   relacionados con  dislalia   que disartria   (",
+        "name": "170.  Los problemas estructurales del lenguaje y la gramática están menos relacionados con dislalia que disartria   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2029,7 +1957,7 @@
         "answerIndex": 1
     },
     {
-        "name": "173.  Según   Achenber    y  Edelnock,     los   informes     de  maestros     y  compañeros correlacionan más   que   los  informes     de  padres:    ",
+        "name": "171.  Según   Achenber    y  Edelnock,     los   informes     de  maestros     y  compañeros correlacionan más   que   los  informes     de  padres:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2041,7 +1969,7 @@
         "answerIndex": 0
     },
     {
-        "name": "174.  La  terapia    más   prometedora      con   TDAH   es  actuar    directamente      sobre    la conducta     disruptiva   extinguiéndola       o  reduciéndola:       ",
+        "name": "172.  La  terapia    más   prometedora      con   TDAH   es  actuar    directamente      sobre    la conducta     disruptiva   extinguiéndola       o  reduciéndola:       ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2053,7 +1981,7 @@
         "answerIndex": 1
     },
     {
-        "name": "176.  La  trisonomía     del  par  21  suele   tener   problemas     articulatorios       pero   pueden producir nexos  y  conectores      sin   necesidad     de  tratamiento:      ",
+        "name": "173.  La  trisonomía     del  par  21  suele   tener   problemas     articulatorios       pero   pueden producir nexos  y  conectores      sin   necesidad     de  tratamiento:      ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2065,7 +1993,7 @@
         "answerIndex": 1
     },
     {
-        "name": "177.  Niño pasivo - ambiente pasivo,    relacionado      con   Piaget:    ",
+        "name": "174.  Niño pasivo - ambiente pasivo,    relacionado      con   Piaget:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2077,7 +2005,7 @@
         "answerIndex": 1
     },
     {
-        "name": "178.  Los  niños  con  RM  tienen   MCP    (",
+        "name": "175.  Los  niños  con  RM  tienen   MCP    (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2089,7 +2017,7 @@
         "answerIndex": 0
     },
     {
-        "name": "179.  Los   tics,  en  general,    son   movimientos       repetitivos      que   tienen    afección     de  la corteza cerebral: ",
+        "name": "176.  Los   tics,  en  general,    son   movimientos       repetitivos      que   tienen    afección     de  la corteza cerebral: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2101,7 +2029,7 @@
         "answerIndex": 1
     },
     {
-        "name": "180.  El mal   llamado    fobia   escolar,     se  confunde con el  trasto   de  ansiedad     por separación      por   su  rechazo    a  ir  al  colegio     ( ",
+        "name": "177.  El mal   llamado    fobia   escolar,     se  confunde con el  trasto   de  ansiedad     por separación      por   su  rechazo    a  ir  al  colegio     ( ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2113,7 +2041,7 @@
         "answerIndex": 0
     },
     {
-        "name": "181.  El trastorno del lenguaje expresivo  puede  aparecer  con el  trastorno del  desarrollo:  ",
+        "name": "178.  El trastorno del lenguaje expresivo  puede  aparecer  con el  trastorno del  desarrollo:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2125,7 +2053,7 @@
         "answerIndex": 0
     },
     {
-        "name": "182.  Juan  Luis  Vives   y  Ciudad   Duarte.   visión   positiva   del  niño   (",
+        "name": "179.  Juan  Luis  Vives   y  Ciudad   Duarte.   visión   positiva   del  niño   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2137,7 +2065,7 @@
         "answerIndex": 0
     },
     {
-        "name": "183. Turner   (XO)  con   rendimiento     escolar    malo   y  conducta    antisocial:     ",
+        "name": "180. Turner   (XO)  con   rendimiento     escolar    malo   y  conducta    antisocial:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2149,7 +2077,7 @@
         "answerIndex": 1
     },
     {
-        "name": "184.  Afasias   y  disfasias    para  estructura     gramatical     ",
+        "name": "181.  Afasias   y  disfasias    para  estructura     gramatical     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2161,7 +2089,7 @@
         "answerIndex": 0
     },
     {
-        "name": "185.  La Casablanca decía “no a la infancia” (",
+        "name": "182.  La Casablanca decía “no a la infancia” (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2173,7 +2101,7 @@
         "answerIndex": 1
     },
     {
-        "name": "186.  Los  estoicos,  mania.   Melancolía y psicosis (Teoria del Preuma)   ",
+        "name": "183.  Los  estoicos,  mania.   Melancolía y psicosis (Teoria del Preuma)   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2185,7 +2113,7 @@
         "answerIndex": 1
     },
     {
-        "name": "187.  Correlación     negativa    entre   inteligencia y  predisposición al  consumo: ",
+        "name": "184.  Correlación     negativa    entre   inteligencia y  predisposición al  consumo: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2197,7 +2125,7 @@
         "answerIndex": 0
     },
     {
-        "name": "188.  Asma  intervención   conductual   cuando   aparecen, síntomas de  edemas   epiteliales    ",
+        "name": "185.  Asma  intervención   conductual   cuando   aparecen, síntomas de  edemas   epiteliales    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2209,7 +2137,7 @@
         "answerIndex": 0
     },
     {
-        "name": "189.  Autismo superselección  de estimulos  (Loovas)   tratamiento   eficaz  para  lenguaje comportamiento  e interacción. (",
+        "name": "186.  Autismo superselección  de estimulos  (Loovas)   tratamiento   eficaz  para  lenguaje comportamiento  e interacción. (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2221,7 +2149,7 @@
         "answerIndex": 0
     },
     {
-        "name": "190.  Anorexia  mejor  tratamiento con  reforzadores    primarios,  no  con  sociales. ",
+        "name": "187.  Anorexia  mejor  tratamiento con  reforzadores    primarios,  no  con  sociales. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2233,7 +2161,7 @@
         "answerIndex": 1
     },
     {
-        "name": "191.  Prevalencia mayor en esquizofrenia con padres esquizofrénicos (factores genéticos) que autistas (",
+        "name": "188.  Prevalencia mayor en esquizofrenia con padres esquizofrénicos (factores genéticos) que autistas (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2245,7 +2173,7 @@
         "answerIndex": 1
     },
     {
-        "name": "192.  Prevalencia 5 veces mayor en depresión con padres depresivos que en población normal: ",
+        "name": "189.  Prevalencia 5 veces mayor en depresión con padres depresivos que en población normal: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2257,7 +2185,7 @@
         "answerIndex": 0
     },
     {
-        "name": "193.  Depresión    anaclítica,     retraso    motriz   e  inteligencia     baja:   ",
+        "name": "190.  Depresión    anaclítica,     retraso    motriz   e  inteligencia     baja:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2269,7 +2197,7 @@
         "answerIndex": 0
     },
     {
-        "name": "195.  Si  el  niño  ha  interiorizado   identificado    estimulos  evocados   Internos   y  externos    y ha  adquirido la ordinalidad   puede   entonces   realizar   desensibilización    sistemática:    (",
+        "name": "191.  Si  el  niño  ha  interiorizado   identificado    estimulos  evocados   Internos   y  externos    y ha  adquirido la ordinalidad   puede   entonces   realizar   desensibilización    sistemática:    (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2281,7 +2209,7 @@
         "answerIndex": 0
     },
     {
-        "name": "196.  Problemas   visuales   en  aberraciones    cromosómicas no  ligadas   al  sexo  como   18 y  21 (",
+        "name": "192.  Problemas   visuales   en  aberraciones    cromosómicas no  ligadas   al  sexo  como   18 y  21 (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2293,7 +2221,7 @@
         "answerIndex": 0
     },
     {
-        "name": "198.  Percepción     de  castigo    injustificados       correlaciona      -   y  significativamente         con consumo  de drogas:    ",
+        "name": "193.  Percepción     de  castigo    injustificados       correlaciona      -   y  significativamente         con consumo  de drogas:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2305,7 +2233,7 @@
         "answerIndex": 1
     },
     {
-        "name": "199.  Cuestionario    Weis-PA   para  TDAH   mide  capacidad   motora   e  Intelectual   (",
+        "name": "194.  Cuestionario    Weis-PA   para  TDAH   mide  capacidad   motora   e  Intelectual   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2317,7 +2245,7 @@
         "answerIndex": 1
     },
     {
-        "name": "200.  Cuando    se  cumple    criterios     DSM  se  etiqueta    y  establece     como    diagnóstico formal:  ",
+        "name": "195.  Cuando    se  cumple    criterios     DSM  se  etiqueta    y  establece     como    diagnóstico formal:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2329,7 +2257,7 @@
         "answerIndex": 0
     },
     {
-        "name": "201.  Niños menores de 3 años es mejor hablar de nivel intelectual que habilidades específicas. ",
+        "name": "196.  Niños menores de 3 años es mejor hablar de nivel intelectual que habilidades específicas. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2341,7 +2269,7 @@
         "answerIndex": 0
     },
     {
-        "name": "202.  Las fobias en niños y adultos no se dan síntomas físicos (médicos) y más tarde/o baja medida los síntomas sociales ",
+        "name": "197.  Las fobias en niños y adultos no se dan síntomas físicos (médicos) y más tarde/o baja medida los síntomas sociales ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2353,7 +2281,7 @@
         "answerIndex": 1
     },
     {
-        "name": "203.  El temperamento      tiene   que   ver   con   humos y umbral    de  R. (respuesta?) ",
+        "name": "198.  El temperamento      tiene   que   ver   con   humos y umbral    de  R. (respuesta?) ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2365,7 +2293,7 @@
         "answerIndex": 0
     },
     {
-        "name": "205.  Apraxia    ideatoria     Se  evalúa    mediante     doblar    un  papel   y  trabajar     con   dos   objetos externos  ala  vez:   ",
+        "name": "199.  Apraxia    ideatoria     Se  evalúa    mediante     doblar    un  papel   y  trabajar     con   dos   objetos externos  ala  vez:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2377,7 +2305,7 @@
         "answerIndex": 0
     },
     {
-        "name": "207.  Las   pesadillas     no  se  recuerdan     y el  terror    nocturno     sí:  ",
+        "name": "200.  Las   pesadillas     no  se  recuerdan     y el  terror    nocturno     sí:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2389,7 +2317,7 @@
         "answerIndex": 1
     },
     {
-        "name": "208.  Los   espásticos      y  atetósicos      rechazan     el  afecto:    ",
+        "name": "201.  Los   espásticos      y  atetósicos      rechazan     el  afecto:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2401,7 +2329,7 @@
         "answerIndex": 1
     },
     {
-        "name": "209.  Bulimia   siempre   distorsiona    la  imagen   corporal:     ",
+        "name": "202.  Bulimia   siempre   distorsiona    la  imagen   corporal:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2413,7 +2341,7 @@
         "answerIndex": 1
     },
     {
-        "name": "210.  Afasia  y  disgrafía   pertenecen   a nivel   estructural:    ",
+        "name": "203.  Afasia  y  disgrafía   pertenecen   a nivel   estructural:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2425,7 +2353,7 @@
         "answerIndex": 0
     },
     {
-        "name": "211.  Migraña  más  frecuente   que  cefalea:   ",
+        "name": "204.  Migraña  más  frecuente   que  cefalea:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2437,7 +2365,7 @@
         "answerIndex": 1
     },
     {
-        "name": "212.  El  modelo   transformacional     considera    los  rasgos   invariantes:    ",
+        "name": "205.  El  modelo   transformacional     considera    los  rasgos   invariantes:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2449,7 +2377,7 @@
         "answerIndex": 1
     },
     {
-        "name": "213.  Síndrome  de  Turner  tiene  desorientación:   ",
+        "name": "206.  Síndrome  de  Turner  tiene  desorientación:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2461,7 +2389,7 @@
         "answerIndex": 0
     },
     {
-        "name": "222.  La  inteligencia    correlaciona     con  el  consumo    de  drogas  legales   (tabaco,   vino  ... ) (",
+        "name": "207.  La  inteligencia    correlaciona     con  el  consumo    de  drogas  legales   (tabaco,   vino  ... ) (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2473,7 +2401,7 @@
         "answerIndex": 0
     },
     {
-        "name": "223.  Klinefelter,    rendimiento    escolar   malo  y  NO  hay  conducta    antisocial     (",
+        "name": "208.  Klinefelter,    rendimiento    escolar   malo  y  NO  hay  conducta    antisocial     (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2485,7 +2413,7 @@
         "answerIndex": 1
     },
     {
-        "name": "224.  Trisonomía  21,  sindrome   de  Down:  normales  en  memoria  y  NO  entienden   bien  las instrucciones.  ",
+        "name": "209.  Trisonomía  21,  sindrome   de  Down:  normales  en  memoria  y  NO  entienden   bien  las instrucciones.  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2497,7 +2425,7 @@
         "answerIndex": 1
     },
     {
-        "name": "225.  En  los  trastornos   alimentarios   graves  se  necesita  tratar  ansiedad   ",
+        "name": "210.  En  los  trastornos   alimentarios   graves  se  necesita  tratar  ansiedad   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2509,7 +2437,7 @@
         "answerIndex": 0
     },
     {
-        "name": "226.  Enuresis,    Incontinencia,     Tics  ...  Se  pueden   tratar   con  control    voluntario:     ",
+        "name": "211.  Enuresis,    Incontinencia,     Tics  ...  Se  pueden   tratar   con  control    voluntario:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2521,7 +2449,7 @@
         "answerIndex": 1
     },
     {
-        "name": "227.  En el  DSM-III- TR  se  diferenció   esquizofrenia   de  autismo. ",
+        "name": "212.  En el  DSM-III- TR  se  diferenció   esquizofrenia   de  autismo. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2533,7 +2461,7 @@
         "answerIndex": 1
     },
     {
-        "name": "228.  En  TDAH,  cuando   es  adulto,   mejora   de  forma   natural,   la  concentración      y  la agitación:    ",
+        "name": "213.  En  TDAH,  cuando   es  adulto,   mejora   de  forma   natural,   la  concentración      y  la agitación:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2545,7 +2473,7 @@
         "answerIndex": 1
     },
     {
-        "name": "229.  Lo  más  frecuente    son  cefaleas   tensionales:     ",
+        "name": "214.  Lo  más  frecuente    son  cefaleas   tensionales:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2557,7 +2485,7 @@
         "answerIndex": 0
     },
     {
-        "name": "232.  Evaluación   empírica-comportamiento     desacaptativo   ",
+        "name": "215.  Evaluación   empírica-comportamiento     desacaptativo   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2569,7 +2497,7 @@
         "answerIndex": 1
     },
     {
-        "name": "233.  Autismo,    dolor   y  enuresis    tiene   componente     de  herencia:    ",
+        "name": "216.  Autismo,    dolor   y  enuresis    tiene   componente     de  herencia:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2581,7 +2509,7 @@
         "answerIndex": 1
     },
     {
-        "name": "234.  Autismo  con  gestos  ",
+        "name": "217.  Autismo  con  gestos  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2593,7 +2521,7 @@
         "answerIndex": 0
     },
     {
-        "name": "235.  Pasando  un  test  sale  0.60.  se  diagnostica como  Retraso Mental  según  el  DSM-IV   (",
+        "name": "218.  Pasando  un  test  sale  0.60.  se  diagnostica como  Retraso Mental  según  el  DSM-IV   (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2605,7 +2533,7 @@
         "answerIndex": 1
     },
     {
-        "name": "236.  Ponce de León propulsó el cambio terapéutico para la mejora de la discapacidad (",
+        "name": "219.  Ponce de León propulsó el cambio terapéutico para la mejora de la discapacidad (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2617,7 +2545,7 @@
         "answerIndex": 0
     },
     {
-        "name": "237.  En el Siglo XIX se implantó la clasificación diagnostica de la idiocia, la imbecilidad y la … creo que es ",
+        "name": "220.  En el Siglo XIX se implantó la clasificación diagnostica de la idiocia, la imbecilidad y la … creo que es ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2629,7 +2557,7 @@
         "answerIndex": 0
     },
     {
-        "name": "238.  A Watson y Wilmer no se les conocía por considerar las aplicaciones terapéuticas (",
+        "name": "221.  A Watson y Wilmer no se les conocía por considerar las aplicaciones terapéuticas (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2641,7 +2569,7 @@
         "answerIndex": 1
     },
     {
-        "name": "239.  S. XVIlI-VIX  proliferaron    los  manicomios,    lo  que  se  consideró    la  base  de  la psicoterapia.   ",
+        "name": "222.  S. XVIlI-VIX  proliferaron    los  manicomios,    lo  que  se  consideró    la  base  de  la psicoterapia.   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2653,7 +2581,7 @@
         "answerIndex": 0
     },
     {
-        "name": "240.  El  estado  psicológico    de  los  padres   influye   en  el  grado  de  tolerancia    que  tienen  con respecto   al comportamiento     de  sus  hijos:   ",
+        "name": "223.  El  estado  psicológico    de  los  padres   influye   en  el  grado  de  tolerancia    que  tienen  con respecto   al comportamiento     de  sus  hijos:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2665,7 +2593,7 @@
         "answerIndex": 0
     },
     {
-        "name": "241.  El DSM tiene criterios diagnósticos para niños basados en datos cuantitativos: ",
+        "name": "224.  El DSM tiene criterios diagnósticos para niños basados en datos cuantitativos: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2677,7 +2605,7 @@
         "answerIndex": 1
     },
     {
-        "name": "242.  Mayor inteligencia, correlaciona positivamente con intención positiva y consumo de sustancia. ",
+        "name": "225.  Mayor inteligencia, correlaciona positivamente con intención positiva y consumo de sustancia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2689,7 +2617,7 @@
         "answerIndex": 1
     },
     {
-        "name": "243.  Es  inútil   intentar   prevenir   el  consumo   de  drogas   promoviendo     una  personalidad dogmática y mejorando las habilidades de aprendizaje. ",
+        "name": "226.  Es  inútil   intentar   prevenir   el  consumo   de  drogas   promoviendo     una  personalidad dogmática y mejorando las habilidades de aprendizaje. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2701,7 +2629,7 @@
         "answerIndex": 1
     },
     {
-        "name": "244.  El modelo de Achenbach dice que la conducta internalizante de los niños es un síndrome de banda estrecha.  ",
+        "name": "227.  El modelo de Achenbach dice que la conducta internalizante de los niños es un síndrome de banda estrecha.  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2713,7 +2641,7 @@
         "answerIndex": 1
     },
     {
-        "name": "245.  Achenbach   establece   una  clasificación    que  relaciona   características     de  forma imperfecta.    ",
+        "name": "228.  Achenbach   establece   una  clasificación    que  relaciona   características     de  forma imperfecta.    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2725,7 +2653,7 @@
         "answerIndex": 0
     },
     {
-        "name": "246.  En el  trastorno    de  pickwic   si  se  pierde   peso  (el  que  se  quiere   perder),   también desaparecen    los síntomas    psicopatológicos.      (",
+        "name": "229.  En el  trastorno    de  pickwic   si  se  pierde   peso  (el  que  se  quiere   perder),   también desaparecen    los síntomas    psicopatológicos.      (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2737,7 +2665,7 @@
         "answerIndex": 0
     },
     {
-        "name": "248.  Uno  de  los logros   de  la  psicologia    es  el  que  con  terapia   se  pueden   suprimir    los síntomas    de asma: creo que ",
+        "name": "230.  Uno  de  los logros   de  la  psicologia    es  el  que  con  terapia   se  pueden   suprimir    los síntomas    de asma: creo que ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2749,7 +2677,7 @@
         "answerIndex": 1
     },
     {
-        "name": "249.  La  Parálisis    cerebral   siempre   se  presenta   con  Retraso   mental:    ",
+        "name": "231.  La  Parálisis    cerebral   siempre   se  presenta   con  Retraso   mental:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2761,7 +2689,7 @@
         "answerIndex": 1
     },
     {
-        "name": "250.  En  el  trastorno    disocial    tiene   importancia    la  intencionalidad:      ",
+        "name": "232.  En  el  trastorno    disocial    tiene   importancia    la  intencionalidad:      ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2773,7 +2701,7 @@
         "answerIndex": 0
     },
     {
-        "name": "251. Asma,   Corea  y  tics   se  pueden   entrenar   con  condicionamiento      operante: ",
+        "name": "233. Asma,   Corea  y  tics   se  pueden   entrenar   con  condicionamiento      operante: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2785,7 +2713,7 @@
         "answerIndex": 1
     },
     {
-        "name": "252.  La  vejiga espástica  se  puede entrenar:    ",
+        "name": "234.  La  vejiga espástica  se  puede entrenar:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2797,7 +2725,7 @@
         "answerIndex": 0
     },
     {
-        "name": "253.  El  mal  menor o  pequeño   mal  se  caracteriza por  sacudidas, pero  no  hay  pérdida  de conciencia: ",
+        "name": "235.  El  mal  menor o  pequeño   mal  se  caracteriza por  sacudidas, pero  no  hay  pérdida  de conciencia: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2809,7 +2737,7 @@
         "answerIndex": 1
     },
     {
-        "name": "255.  La  ansiedad   ante   los   adultos   es  especifica    de  la  fobia   social:    ",
+        "name": "236.  La  ansiedad   ante   los   adultos   es  especifica    de  la  fobia   social:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2821,7 +2749,7 @@
         "answerIndex": 1
     },
     {
-        "name": "257.  Las  disartrias    son   lo  mismo    que  las  dislalias    funcionales:     ",
+        "name": "237.  Las  disartrias    son   lo  mismo    que  las  dislalias    funcionales:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2833,7 +2761,7 @@
         "answerIndex": 1
     },
     {
-        "name": "258. Falta  de  gramatismo     es  igual   a  disartria. ",
+        "name": "238. Falta  de  gramatismo     es  igual   a  disartria. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2845,7 +2773,7 @@
         "answerIndex": 1
     },
     {
-        "name": "259.  Correlación     entre   el  porcentaje     de  depresión    y  consumo    de  drogas. ",
+        "name": "239.  Correlación     entre   el  porcentaje     de  depresión    y  consumo    de  drogas. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2857,7 +2785,7 @@
         "answerIndex": 0
     },
     {
-        "name": "260.  Síndrome    de  Turner,    Jacob   y William    pueden    llegar   a  ser  demencia:     ",
+        "name": "240.  Síndrome    de  Turner,    Jacob   y William    pueden    llegar   a  ser  demencia:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2869,7 +2797,7 @@
         "answerIndex": 1
     },
     {
-        "name": "261.  La bulimia,  purga   y  obesidad    tienen   en  común    la  distorsión     de la  imagen   corporal: ",
+        "name": "241.  La bulimia,  purga   y  obesidad    tienen   en  común    la  distorsión     de la  imagen   corporal: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2881,7 +2809,7 @@
         "answerIndex": 1
     },
     {
-        "name": "262.  La parálisis    cerebral    se  relaciona    en  la  mitad   de  los   casos   con   RM:  ",
+        "name": "242.  La parálisis    cerebral    se  relaciona    en  la  mitad   de  los   casos   con   RM:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2893,7 +2821,7 @@
         "answerIndex": 0
     },
     {
-        "name": "263.  El autismo y el Asperger tienen en común la alteración de las funciones del lenguaje (",
+        "name": "243.  El autismo y el Asperger tienen en común la alteración de las funciones del lenguaje (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2905,7 +2833,7 @@
         "answerIndex": 1
     },
     {
-        "name": "264.  La ansiedad ante la separación puede estar relacionada con que los padres hayan reforzado conductas de  dependencia. (",
+        "name": "244.  La ansiedad ante la separación puede estar relacionada con que los padres hayan reforzado conductas de  dependencia. (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2917,7 +2845,7 @@
         "answerIndex": 0
     },
     {
-        "name": "265.  El TDAH se diferencia de la conducta disocial en la intencionalidad. (",
+        "name": "245.  El TDAH se diferencia de la conducta disocial en la intencionalidad. (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2929,7 +2857,7 @@
         "answerIndex": 0
     },
     {
-        "name": "266.  En  el  síndrome   de  Wilson    y  de  Down   el  retraso    suele   aparecer    a  los   2  o  3  años: (",
+        "name": "246.  En  el  síndrome   de  Wilson    y  de  Down   el  retraso    suele   aparecer    a  los   2  o  3  años: (",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2941,7 +2869,7 @@
         "answerIndex": 1
     },
     {
-        "name": "267.  Asma,   corea,   vejiga   espástica    y  tics   pueden   mejorar    sólo   con   el  control    voluntario: ",
+        "name": "247.  Asma,   corea,   vejiga   espástica    y  tics   pueden   mejorar    sólo   con   el  control    voluntario: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2953,7 +2881,7 @@
         "answerIndex": 1
     },
     {
-        "name": "268.  A  más   inteligencia,     más  afecto    positivo    y  más   consumo    de  drogas:    ",
+        "name": "248.  A  más   inteligencia,     más  afecto    positivo    y  más   consumo    de  drogas:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2965,7 +2893,7 @@
         "answerIndex": 1
     },
     {
-        "name": "269.  Los   rituales    evolutivos     disminuyen     la  ansiedad:    ",
+        "name": "249.  Los   rituales    evolutivos     disminuyen     la  ansiedad:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2977,7 +2905,7 @@
         "answerIndex": 1
     },
     {
-        "name": "270.  La  anorexia   solo   debe   tratarse    con   condicionamiento clásico;    ",
+        "name": "250.  La  anorexia   solo   debe   tratarse    con   condicionamiento clásico;    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2989,7 +2917,7 @@
         "answerIndex": 1
     },
     {
-        "name": "271.  La  enuresis    se  mejora   con   aprendizaje: ",
+        "name": "251.  La  enuresis    se  mejora   con   aprendizaje: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3001,7 +2929,7 @@
         "answerIndex": 0
     },
     {
-        "name": "272.  Mediante    el  idiolecto    se  puede   detectar    un  trastorno:     ",
+        "name": "252.  Mediante    el  idiolecto    se  puede   detectar    un  trastorno:     ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3013,7 +2941,7 @@
         "answerIndex": 0
     },
     {
-        "name": "273.  Problemas    estructurales      implican    problemas     articulatorios:    ",
+        "name": "253.  Problemas    estructurales      implican    problemas     articulatorios:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3025,7 +2953,7 @@
         "answerIndex": 0
     },
     {
-        "name": "275.  El  pequeño    mal  epiléptico     tiene   tic s  en  manos   y  pies   sin  pérdida    de  consciencia: ",
+        "name": "254.  El  pequeño    mal  epiléptico     tiene   tic s  en  manos   y  pies   sin  pérdida    de  consciencia: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3037,7 +2965,7 @@
         "answerIndex": 1
     },
     {
-        "name": "276.  Las  pesadillas    aparecen   en  la  fase 3 y 4 del  sueño:   ",
+        "name": "255.  Las  pesadillas    aparecen   en  la  fase 3 y 4 del  sueño:   ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3049,7 +2977,7 @@
         "answerIndex": 1
     },
     {
-        "name": "277. El  síndrome    de  piernas  inquietas    se  puede   considerar    como   un  problema    de  vigilia: ",
+        "name": "256. El  síndrome    de  piernas  inquietas    se  puede   considerar    como   un  problema    de  vigilia: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3061,7 +2989,7 @@
         "answerIndex": 0
     },
     {
-        "name": "278.  El  índice   de  masa  corporal    para  diagnosticar     anorexia    es  de  27,5 : ",
+        "name": "257.  El  índice   de  masa  corporal    para  diagnosticar     anorexia    es  de  27,5 : ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3073,7 +3001,7 @@
         "answerIndex": 1
     },
     {
-        "name": "279.  La hiperactividad en la anorexia es planeada. ",
+        "name": "258.  La hiperactividad en la anorexia es planeada. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3085,7 +3013,7 @@
         "answerIndex": 0
     },
     {
-        "name": "280.  En la anorexia se despliega gran actividad física. ",
+        "name": "259.  En la anorexia se despliega gran actividad física. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3097,7 +3025,7 @@
         "answerIndex": 0
     },
     {
-        "name": "281.  En la anorexia compulsiva o restrictiva por definición se dan atracones y purgas: ",
+        "name": "260.  En la anorexia compulsiva o restrictiva por definición se dan atracones y purgas: ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3109,7 +3037,7 @@
         "answerIndex": 1
     },
     {
-        "name": "282.  En la anorexia restrictiva se dan atracones. ",
+        "name": "261.  En la anorexia restrictiva se dan atracones. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3121,7 +3049,7 @@
         "answerIndex": 1
     },
     {
-        "name": "283.  En  anorexia    nerviosa   se  puede   producir    atracón    bulimico:    ",
+        "name": "262.  En  anorexia    nerviosa   se  puede   producir    atracón    bulimico:    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3133,7 +3061,7 @@
         "answerIndex": 0
     },
     {
-        "name": "284.  Para  el  diagnóstico     de  bulimia    nerviosa    ha  de  cumplirse     el  criterio    de  peso   inferior     al 35%  de  su  peso   promedio    (según   edad   y  altura):    ",
+        "name": "263.  Para  el  diagnóstico     de  bulimia    nerviosa    ha  de  cumplirse     el  criterio    de  peso   inferior     al 35%  de  su  peso   promedio    (según   edad   y  altura):    ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3145,7 +3073,7 @@
         "answerIndex": 1
     },
     {
-        "name": "285.  En la bulimia hay fases de ayuno. ",
+        "name": "264.  En la bulimia hay fases de ayuno. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3157,7 +3085,7 @@
         "answerIndex": 0
     },
     {
-        "name": "286.  En la bulimia el IMC es de 17,5. ",
+        "name": "265.  En la bulimia el IMC es de 17,5. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3169,7 +3097,7 @@
         "answerIndex": 1
     },
     {
-        "name": "287.  La  bulimia    se  diferencia    esencialmente      de  la  anorexia    en  los   atracones:  ",
+        "name": "266.  La  bulimia    se  diferencia    esencialmente      de  la  anorexia    en  los   atracones:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3181,7 +3109,7 @@
         "answerIndex": 1
     },
     {
-        "name": "288.  Los  atracones    en  bulimia    es  por  falta   de  control:  ",
+        "name": "267.  Los  atracones    en  bulimia    es  por  falta   de  control:  ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3193,7 +3121,7 @@
         "answerIndex": 0
     },
     {
-        "name": "289.  En  un  principio    el  trastorno     por   atracón    (ingesta    voraz)   se  puede   diagnosticar como   bulimia   tipo   purgativo. ",
+        "name": "268.  En  un  principio    el  trastorno     por   atracón    (ingesta    voraz)   se  puede   diagnosticar como   bulimia   tipo   purgativo. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3205,7 +3133,7 @@
         "answerIndex": 1
     },
     {
-        "name": "290. 26. La traslocación del síndrome de Down es hereditaria. ",
+        "name": "269. 26. La traslocación del síndrome de Down es hereditaria. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3217,7 +3145,7 @@
         "answerIndex": 0
     },
     {
-        "name": "291. El síndrome de Pickwick evidencia que, remitiendo la obesidad no deseada, remiten los signos y síntomas psicopatológicos. ",
+        "name": "270. El síndrome de Pickwick evidencia que, remitiendo la obesidad no deseada, remiten los signos y síntomas psicopatológicos. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3229,7 +3157,7 @@
         "answerIndex": 0
     },
     {
-        "name": "292. Los síndromes de Turner, Jakob y Crentabell pueden llegar a RM y demencia. ",
+        "name": "271. Los síndromes de Turner, Jakob y Crentabell pueden llegar a RM y demencia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3241,7 +3169,7 @@
         "answerIndex": 1
     },
     {
-        "name": "293. El síndrome de Rett a diferencia del trastorno de Asperger, presenta un déficit en el lenguaje expresivo y receptivo. ",
+        "name": "273. . La diferencia entre Asperger y el trastorno degenerativo es la dificultad de este último en el lenguaje expresivoreceptivo. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3253,7 +3181,7 @@
         "answerIndex": 0
     },
     {
-        "name": "294. . La diferencia entre Asperger y el trastorno degenerativo es la dificultad de este último en el lenguaje expresivoreceptivo. ",
+        "name": "274. La encefalopatía epileptógena caracterizada por los espasmos en flexión se da en el síndrome de LenoxGorrant. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3262,22 +3190,10 @@
                 "name": "Falso"
             }
         ],
-        "answerIndex": 0
-    },
-    {
-        "name": "295. La encefalopatía epileptógena caracterizada por los espasmos en flexión se da en el síndrome de LenoxGorrant. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
         "answerIndex": 1
     },
     {
-        "name": "296. El síndrome de Lenox- Gastrount y S. West tienen su origen en una encefalopatía. ",
+        "name": "275. El síndrome de Lenox- Gastrount y S. West tienen su origen en una encefalopatía. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3289,7 +3205,7 @@
         "answerIndex": 0
     },
     {
-        "name": "297. El síndrome de West y de Lenox-Gastrount se presenta siempre a la misma edad. ",
+        "name": "276. El síndrome de West y de Lenox-Gastrount se presenta siempre a la misma edad. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3301,7 +3217,7 @@
         "answerIndex": 1
     },
     {
-        "name": "298. El síndrome de Lennox- Gastrount se acompaña de déficit intelectual grave, trastornos de carácter y de comportamiento. ",
+        "name": "277. El síndrome de Lennox- Gastrount se acompaña de déficit intelectual grave, trastornos de carácter y de comportamiento. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3313,7 +3229,7 @@
         "answerIndex": 0
     },
     {
-        "name": "299. El pequeño mal se caracteriza por etapas clónico-tónico. ",
+        "name": "278. El pequeño mal se caracteriza por etapas clónico-tónico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3325,7 +3241,7 @@
         "answerIndex": 1
     },
     {
-        "name": "300. Las ausencias son típicas del pequeño mal. ",
+        "name": "279. Las ausencias son típicas del pequeño mal. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3337,7 +3253,7 @@
         "answerIndex": 0
     },
     {
-        "name": "301. En el mal epiléptico se pueden dar crisis parciales en fase tónica-clónica. ",
+        "name": "280. En el mal epiléptico se pueden dar crisis parciales en fase tónica-clónica. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3349,7 +3265,7 @@
         "answerIndex": 1
     },
     {
-        "name": "302. Las crisis comisiales del gran mal se asocian a RM en la mayoría de los casos. ",
+        "name": "281. Las crisis comisiales del gran mal se asocian a RM en la mayoría de los casos. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3361,7 +3277,7 @@
         "answerIndex": 1
     },
     {
-        "name": "303. Las crisis corticales del gran mal se vinculan a RM en la mayoría de los casos. ",
+        "name": "282. Las crisis corticales del gran mal se vinculan a RM en la mayoría de los casos. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3373,7 +3289,7 @@
         "answerIndex": 1
     },
     {
-        "name": "304. En el gran mal hay un grave déficit intelectual. ",
+        "name": "283. En el gran mal hay un grave déficit intelectual. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3385,7 +3301,7 @@
         "answerIndex": 1
     },
     {
-        "name": "305. El aura que acompaña a las epilepsias nos permite identificar en qué lugar de la corteza cerebral se originó la crisis. ",
+        "name": "284. El aura que acompaña a las epilepsias nos permite identificar en qué lugar de la corteza cerebral se originó la crisis. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3397,7 +3313,7 @@
         "answerIndex": 1
     },
     {
-        "name": "306. El aura epiléptica nos indica dónde está la zona lesionada. ",
+        "name": "285. El aura epiléptica nos indica dónde está la zona lesionada. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3407,21 +3323,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "307. . El origen de West viene asociados a una encefalopatía (epilepsia de la primera infancia). ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "308. La sincronía de la epilepsia indica madurez cerebral. ",
+        "name": "287. La sincronía de la epilepsia indica madurez cerebral. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3431,21 +3335,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "309. En la epilepsia para tratar la fobia, se usan únicamente técnicas de condicionamiento clásico. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "310. En las epilepsias, las ausencias atípicas se pueden dar en síndrome Lennox-Gastaut. ",
+        "name": "289.,
         "answers": [
             {
                 "name": "Verdadero"
@@ -3457,7 +3349,7 @@
         "answerIndex": 0
     },
     {
-        "name": "311. La crisis epiléptica amniótica inhibe el tono postural. ",
+        "name": "290. La crisis epiléptica amniótica inhibe el tono postural. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3469,7 +3361,7 @@
         "answerIndex": 0
     },
     {
-        "name": "312. Los estados crepusculares son una alteración de la conciencia y de la identidad. ",
+        "name": "291. Los estados crepusculares son una alteración de la conciencia y de la identidad. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3481,7 +3373,7 @@
         "answerIndex": 0
     },
     {
-        "name": "313. A los 4 años, normativamente, es altamente improbable que aparezca la esquizofrenia. ",
+        "name": "292. A los 4 años, normativamente, es altamente improbable que aparezca la esquizofrenia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3493,7 +3385,7 @@
         "answerIndex": 0
     },
     {
-        "name": "314. La esquizofrenia tiene peor pronóstico que el trastorno bipolar. ",
+        "name": "293. La esquizofrenia tiene peor pronóstico que el trastorno bipolar. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3503,21 +3395,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "315. El componente intrafamiliar en esquizofrenia y autismo es igual. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "316. Los niños con esquizofrenia infantil tienen mayor probabilidad de tener familiares con trastornos mentales que los autistas. ",
+        "name": "295. Los niños con esquizofrenia infantil tienen mayor probabilidad de tener familiares con trastornos mentales que los autistas. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3529,7 +3409,7 @@
         "answerIndex": 0
     },
     {
-        "name": "317. Las ideas delirantes suelen considerarse un síntoma negativo de esquizofrenia. ",
+        "name": "296. Las ideas delirantes suelen considerarse un síntoma negativo de esquizofrenia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3541,7 +3421,7 @@
         "answerIndex": 1
     },
     {
-        "name": "318. Los síntomas motores o comportamiento catatónico son considerados síntomas positivos de esquizofrenia. ",
+        "name": "297. Los síntomas motores o comportamiento catatónico son considerados síntomas positivos de esquizofrenia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3553,7 +3433,7 @@
         "answerIndex": 0
     },
     {
-        "name": "319. El fenómeno “indidecto”(lenguaje) junto al “halo gestual” por ejemplo de un esquizofrénico permite a un observador bien entrenado, distinguir la forma peculiar en que se expresa tanto una persona normal como una con trastorno peculiar. ",
+        "name": "298. El fenómeno “indidecto”(lenguaje) junto al “halo gestual” por ejemplo de un esquizofrénico permite a un observador bien entrenado, distinguir la forma peculiar en que se expresa tanto una persona normal como una con trastorno peculiar. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3565,7 +3445,7 @@
         "answerIndex": 0
     },
     {
-        "name": "320. La rigidez por parálisis se puede confundir con la respuesta catatónica de un esquizofrénico en ambos trastornoshabrá evidencias de un daño físico cerebral. ",
+        "name": "299. La rigidez por parálisis se puede confundir con la respuesta catatónica de un esquizofrénico en ambos trastornoshabrá evidencias de un daño físico cerebral. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3577,7 +3457,7 @@
         "answerIndex": 1
     },
     {
-        "name": "321. Un autista se diferencia de un esquizofrénico porque no sufre alucinaciones. ",
+        "name": "300. Un autista se diferencia de un esquizofrénico porque no sufre alucinaciones. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3587,21 +3467,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "322. En el tratamiento no anoróticos siempre procede tratar los problemas fóbicos. Pero eso solo interviene con el modelo de condicionamiento clásico. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "323. Anorexia solo se trata con condicionamiento clásico. ",
+        "name": "301. En el tratamiento no anoróticos siempre procede tratar los problemas fóbicos. Pero eso solo interviene con el modelo de condicionamiento clásico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3613,7 +3481,7 @@
         "answerIndex": 1
     },
     {
-        "name": "324. En el tratamiento con anoréxicos solo se usa condicionamiento clásico. ",
+        "name": "302. Anorexia solo se trata con condicionamiento clásico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3625,7 +3493,7 @@
         "answerIndex": 1
     },
     {
-        "name": "325. En epilepsia, para tratar la fobia se usan únicamente técnicas de condicionamiento clásico. ",
+        "name": "304. En epilepsia, para tratar la fobia se usan únicamente técnicas de condicionamiento clásico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3637,7 +3505,7 @@
         "answerIndex": 1
     },
     {
-        "name": "326. (Eneuresis) El trastorno de vejiga espástica, pese a tener una base bioanatómica y estructural evidente, permite su remisión en alto grado con intervención cognitivo-conductual. ",
+        "name": "305. (Eneuresis) El trastorno de vejiga espástica, pese a tener una base bioanatómica y estructural evidente, permite su remisión en alto grado con intervención cognitivo-conductual. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3649,7 +3517,7 @@
         "answerIndex": 0
     },
     {
-        "name": "327. Vejiga espástica a pesar de ser una alteración biológica se puede modificar con técnicas cognitivas-conductuales.",
+        "name": "306. Vejiga espástica a pesar de ser una alteración biológica se puede modificar con técnicas cognitivas-conductuales.",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3659,21 +3527,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "328. Vejiga espástica solo atiende a tratamiento médico. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "329. La vejiga espástica agrava la enuresis y no se puede someter a control. ",
+        "name": "307. Vejiga espástica solo atiende a tratamiento médico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3685,7 +3541,7 @@
         "answerIndex": 1
     },
     {
-        "name": "330. En los espasmos de vejiga solo cabe tratamiento médico. ",
+        "name": "309. En los espasmos de vejiga solo cabe tratamiento médico. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3697,7 +3553,7 @@
         "answerIndex": 1
     },
     {
-        "name": "331. Las ecolalias, la autoestima y autolesiones permiten el diagnóstico diferencial del RM y autismo. ",
+        "name": "310. Las ecolalias, la autoestima y autolesiones permiten el diagnóstico diferencial del RM y autismo. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3709,7 +3565,7 @@
         "answerIndex": 1
     },
     {
-        "name": "332. El autismo se diferencia de la afasia por la misión de ecolalias. ",
+        "name": "311. El autismo se diferencia de la afasia por la misión de ecolalias. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3721,7 +3577,7 @@
         "answerIndex": 1
     },
     {
-        "name": "333. Los niños con afasia del desarrollo comparten como síntomas comunes con el autismo las dificultades en las relaciones interpersonales, ecolalia e inversiones pronominales. ",
+        "name": "312. Los niños con afasia del desarrollo comparten como síntomas comunes con el autismo las dificultades en las relaciones interpersonales, ecolalia e inversiones pronominales. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3733,7 +3589,7 @@
         "answerIndex": 1
     },
     {
-        "name": "334. El Asperger tiene en común con el autismo el déficit en el lenguaje. ",
+        "name": "313. El Asperger tiene en común con el autismo el déficit en el lenguaje. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3745,7 +3601,7 @@
         "answerIndex": 1
     },
     {
-        "name": "335. El Asperger tiene en común con el autismo la falta de capacidad de la interacción social. ",
+        "name": "314. El Asperger tiene en común con el autismo la falta de capacidad de la interacción social. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3755,45 +3611,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "336. . Los afásicos y autistas tienen en común la capacidad para llevar a cabo juegos simbólicos (el afásico sí). ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "337. El autista, al igual que la afasia del desarrollo, presenta juego imaginativo. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "338. En los retrasados mentales es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "339. Una dificultad de los autistas es que no pueden expresarse en presente ni en pasado. ",
+        "name": "315. . Los afásicos y autistas tienen en común la capacidad para llevar a cabo juegos simbólicos (el afásico sí). ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3805,7 +3625,7 @@
         "answerIndex": 1
     },
     {
-        "name": "340. Las conductas estimulantes, estereotipadas y autolesivas sirven para diferenciar a los autistas de los niños con retraso mental. ",
+        "name": "317. En los retrasados mentales es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3817,7 +3637,7 @@
         "answerIndex": 1
     },
     {
-        "name": "341. Las ecolalias son manifestaciones del lenguaje que pueden ayudarnos a diferenciar un autista de un RM. ",
+        "name": "318. Una dificultad de los autistas es que no pueden expresarse en presente ni en pasado. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3829,7 +3649,7 @@
         "answerIndex": 1
     },
     {
-        "name": "342. . Las conductas autolesivas y autoestimulantes de los autistas tienen juntas y por sí mismas un gran valor diagnostico en las relaciones interpersonales, la ecolalia e inversiones pronominales. ",
+        "name": "320. Las ecolalias son manifestaciones del lenguaje que pueden ayudarnos a diferenciar un autista de un RM. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3841,7 +3661,7 @@
         "answerIndex": 1
     },
     {
-        "name": "343. (Retraso mental) con los afectados de retraso mental endógeno como los Hurler o los gargolismos, debido a su alta y pronta mortalidad se hace necesario actuar-intervenir con la familia. ",
+        "name": "321. . Las conductas autolesivas y autoestimulantes de los autistas tienen juntas y por sí mismas un gran valor diagnostico en las relaciones interpersonales, la ecolalia e inversiones pronominales. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3853,7 +3673,7 @@
         "answerIndex": 1
     },
     {
-        "name": "344. En el retraso mental los programas de refuerzo no son necesarios si queremos que mantenga un alto nivel de imitación. ",
+        "name": "322. (Retraso mental) con los afectados de retraso mental endógeno como los Hurler o los gargolismos, debido a su alta y pronta mortalidad se hace necesario actuar-intervenir con la familia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3865,7 +3685,7 @@
         "answerIndex": 1
     },
     {
-        "name": "345. Turner, Wilson, Jacob y Leureux tienen retraso mental y demencia. ",
+        "name": "324. Turner, Wilson, Jacob y Leureux tienen retraso mental y demencia. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3877,7 +3697,7 @@
         "answerIndex": 1
     },
     {
-        "name": "346. La galactosemia un trastorno del metabolismo de las proteínas, si se trata precozmente y se detecta se puede prevenir el RM. ",
+        "name": "325. La galactosemia un trastorno del metabolismo de las proteínas, si se trata precozmente y se detecta se puede prevenir el RM. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3889,7 +3709,7 @@
         "answerIndex": 1
     },
     {
-        "name": "347. . Un niño con un CI de 70, es suficiente para diagnosticar un RM. ",
+        "name": "326. . Un niño con un CI de 70, es suficiente para diagnosticar un RM. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3901,7 +3721,7 @@
         "answerIndex": 1
     },
     {
-        "name": "348. La enfermedad de Turner siempre lleva emparejada un RM. ",
+        "name": "327. La enfermedad de Turner siempre lleva emparejada un RM. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3913,7 +3733,7 @@
         "answerIndex": 1
     },
     {
-        "name": "349. Un niño con meningitis a los 4 años, puede tener un RM maduro somático postnatal. ",
+        "name": "328. Un niño con meningitis a los 4 años, puede tener un RM maduro somático postnatal. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3925,7 +3745,7 @@
         "answerIndex": 0
     },
     {
-        "name": "350. En un programa de aprendizaje con niños deficientes es conveniente que se acostumbren a mensajes contradictorios que el aprendizaje se establezca y generalice. ",
+        "name": "329. En un programa de aprendizaje con niños deficientes es conveniente que se acostumbren a mensajes contradictorios que el aprendizaje se establezca y generalice. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3937,7 +3757,7 @@
         "answerIndex": 1
     },
     {
-        "name": "351. Asma-obesidad = en ambas la gravedad puede ser regulada mediamente el aprendizaje. Dentro de las estrategias psicológicas, particularmente aplicando solo condicionamiento operante. ",
+        "name": "330. Asma-obesidad = en ambas la gravedad puede ser regulada mediamente el aprendizaje. Dentro de las estrategias psicológicas, particularmente aplicando solo condicionamiento operante. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3949,7 +3769,7 @@
         "answerIndex": 1
     },
     {
-        "name": "352. Uno de los logros de la terapia psicológica consiste en llegar a evitar del todo los procesos asmáticos. ",
+        "name": "331. Uno de los logros de la terapia psicológica consiste en llegar a evitar del todo los procesos asmáticos. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3961,7 +3781,7 @@
         "answerIndex": 1
     },
     {
-        "name": "353. Terapia psicológica cura todos los síntomas del asma. ",
+        "name": "332. Terapia psicológica cura todos los síntomas del asma. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3973,7 +3793,7 @@
         "answerIndex": 1
     },
     {
-        "name": "354. Tanto el asma como la obesidad se pueden atenuar la gravedad de los síntomas por tratamiento psicológico. El tratamiento psicológico es solo condicionamiento operante. ",
+        "name": "333. Tanto el asma como la obesidad se pueden atenuar la gravedad de los síntomas por tratamiento psicológico. El tratamiento psicológico es solo condicionamiento operante. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3985,7 +3805,7 @@
         "answerIndex": 1
     },
     {
-        "name": "355. Asma y obesidad se pueden modular por aprendizaje. ",
+        "name": "334. Asma y obesidad se pueden modular por aprendizaje. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -3997,7 +3817,7 @@
         "answerIndex": 0
     },
     {
-        "name": "356. El asma o la obesidad están relacionados en su etiología con una disabilidad para afrontar el problema. ",
+        "name": "335. El asma o la obesidad están relacionados en su etiología con una disabilidad para afrontar el problema. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4007,21 +3827,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "357. Una crisis asmática es modificable en intensidad por condicionamiento. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "358. La reversibilidad del asma es un aspecto diferenciador de otras enfermedades pulmonares. ",
+        "name": "336. Una crisis asmática es modificable en intensidad por condicionamiento. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4031,21 +3839,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "359. Obesidad y anorexia tienen similares parámetros en gravedad y psicopatología. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "360. La anorexia se debe a la falta de apetito. ",
+        "name": "338. Obesidad y anorexia tienen similares parámetros en gravedad y psicopatología. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4057,7 +3853,7 @@
         "answerIndex": 1
     },
     {
-        "name": "361. En la bulimia voraz hay ansiedad después de cada atracón. ",
+        "name": "339. La anorexia se debe a la falta de apetito. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4067,21 +3863,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "362. La autoevaluación en la anorexia y en la bulimia están altamente modulados por el peso y la figura. ",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "363. Psicopatología en bulimia purgativa y obesidad es similar. ",
+        "name": "342. Psicopatología en bulimia purgativa y obesidad es similar. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4093,7 +3877,7 @@
         "answerIndex": 1
     },
     {
-        "name": "364. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad. ",
+        "name": "343. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad. ",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4105,7 +3889,7 @@
         "answerIndex": 1
     },
     {
-        "name": "1. La irritabilidad es una característica común de la depresión en la infancia y en la edad adulta",
+        "name": "344. La irritabilidad es una característica común de la depresión en la infancia y en la edad adulta",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4115,21 +3899,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "2. Watson desarrolló los protocolos observacionales del desarrollo evolutivo de los niños",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "3. La hemofilia y la diabetes de forma indirecta pueden ser causa de RM",
+        "name": "345. Watson desarrolló los protocolos observacionales del desarrollo evolutivo de los niños",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4139,21 +3911,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "4. En el diagnóstico del RM profundo se puede prescindir del criterio de adaptabilidad social",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "5. En el Síndrome de Down se pueden presentar deformaciones bucales que impiden el habla",
+        "name": "346. La hemofilia y la diabetes de forma indirecta pueden ser causa de RM",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4163,33 +3923,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "6. El componente intrafamiliar en esquizofrenia y autismo es igual",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "7. La vejiga espástica agrava la enuresis y no se puede someter a control",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "8. Los autistas tienen más disglosias que dislalias",
+        "name": "347. En el diagnóstico del RM profundo se puede prescindir del criterio de adaptabilidad social",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4199,33 +3935,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "9. Los tics y los movimientos coreicos son controlables y por ello en ambos es mejor el tratamiento conductual",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "10. En el autismo se da escasa agresividad e hiperactividad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "11. Existe una relación directa entre la dificultad articulatoria y gramatical",
+        "name": "354. Existe una relación directa entre la dificultad articulatoria y gramatical",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4237,7 +3949,7 @@
         "answerIndex": 1
     },
     {
-        "name": "12. El llamado Síndrome de Hunter es una enfermedad de las denominadas “de transmisión sexual”",
+        "name": "355. El llamado Síndrome de Hunter es una enfermedad de las denominadas “de transmisión sexual”",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4249,7 +3961,7 @@
         "answerIndex": 1
     },
     {
-        "name": "13. Rett y Autismo tienen similar lenguaje expresivo",
+        "name": "356. Rett y Autismo tienen similar lenguaje expresivo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4261,7 +3973,7 @@
         "answerIndex": 0
     },
     {
-        "name": "14. Obesidad y anorexia tienen similares parámetros en gravedad y psicopatología",
+        "name": "357. Obesidad y anorexia tienen similares parámetros en gravedad y psicopatología",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4273,7 +3985,7 @@
         "answerIndex": 1
     },
     {
-        "name": "15. Una crisis asmática es modificable en intensidad por condicionamiento",
+        "name": "358. Una crisis asmática es modificable en intensidad por condicionamiento",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4285,7 +3997,7 @@
         "answerIndex": 0
     },
     {
-        "name": "16. Asma y obesidad se pueden modular por aprendizaje",
+        "name": "359. Asma y obesidad se pueden modular por aprendizaje",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4297,7 +4009,7 @@
         "answerIndex": 0
     },
     {
-        "name": "17. La anorexia se debe a la falta de apetito",
+        "name": "360. La anorexia se debe a la falta de apetito",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4309,7 +4021,7 @@
         "answerIndex": 1
     },
     {
-        "name": "19. Los modelos transformacionales postulan que los rasgos pueden variar",
+        "name": "361. Los modelos transformacionales postulan que los rasgos pueden variar",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4319,21 +4031,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "20. La fenilsetonuria se debe a un gen dominante",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "21. La causa de una dispraxia infantil denota más un desorden madurativo que una lesión",
+        "name": "363. La causa de una dispraxia infantil denota más un desorden madurativo que una lesión",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4345,7 +4045,7 @@
         "answerIndex": 0
     },
     {
-        "name": "22. Hiperactividad y Trastorno Disocial tienen un alto % de conductas desadaptativas similares",
+        "name": "364. Hiperactividad y Trastorno Disocial tienen un alto % de conductas desadaptativas similares",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4357,7 +4057,7 @@
         "answerIndex": 0
     },
     {
-        "name": "23. Los niños inician el consumo de drogas por simple curiosidad",
+        "name": "365. Los niños inician el consumo de drogas por simple curiosidad",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4369,7 +4069,7 @@
         "answerIndex": 0
     },
     {
-        "name": "24. La prueba de amniosentesis en embarazadas causa cierto porcentaje de abortos",
+        "name": "366. La prueba de amniosentesis en embarazadas causa cierto porcentaje de abortos",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4381,7 +4081,7 @@
         "answerIndex": 0
     },
     {
-        "name": "25. Lutero y Calvino alejaban la psicopatología infantil del demonismo",
+        "name": "367. Lutero y Calvino alejaban la psicopatología infantil del demonismo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4393,7 +4093,7 @@
         "answerIndex": 1
     },
     {
-        "name": "26. El emplear castigo en la Hiperactividad no es adecuado porque da lugar a efectos iatrogénicos",
+        "name": "368. El emplear castigo en la Hiperactividad no es adecuado porque da lugar a efectos iatrogénicos",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4405,7 +4105,7 @@
         "answerIndex": 0
     },
     {
-        "name": "27. La galactosemia si no se atiende pronto, produce RM",
+        "name": "369. La galactosemia si no se atiende pronto, produce RM",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4417,7 +4117,7 @@
         "answerIndex": 0
     },
     {
-        "name": "28. Los niños con esquizofrenia infantil tiene mayor probabilidad de tener familiares con trastornos mentales que los autistas",
+        "name": "370. Los niños con esquizofrenia infantil tiene mayor probabilidad de tener familiares con trastornos mentales que los autistas",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4429,7 +4129,7 @@
         "answerIndex": 0
     },
     {
-        "name": "30. El tic de Gills de la Tourette tiene una leve implicación fisiológica, es funcional y tiene dificultad para encontrar su voluntariedad",
+        "name": "371. El tic de Gills de la Tourette tiene una leve implicación fisiológica, es funcional y tiene dificultad para encontrar su voluntariedad",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4441,7 +4141,7 @@
         "answerIndex": 1
     },
     {
-        "name": "31. El enfoque transaccional afecta el efecto de la situación",
+        "name": "372. El enfoque transaccional afecta el efecto de la situación",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4453,7 +4153,7 @@
         "answerIndex": 0
     },
     {
-        "name": "32. Enuresis, tics y cefaleas, responden al control voluntario y se pueden tratar con condicionamiento",
+        "name": "373. Enuresis, tics y cefaleas, responden al control voluntario y se pueden tratar con condicionamiento",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4465,7 +4165,7 @@
         "answerIndex": 0
     },
     {
-        "name": "33. Anorexia, bulimia purgativa y obesidad tienen en común la distorsión de la imagen corporal",
+        "name": "374. Anorexia, bulimia purgativa y obesidad tienen en común la distorsión de la imagen corporal",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4477,7 +4177,7 @@
         "answerIndex": 1
     },
     {
-        "name": "34. El gran mal epiléptico correlaciona con retraso mental",
+        "name": "375. El gran mal epiléptico correlaciona con retraso mental",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4489,7 +4189,7 @@
         "answerIndex": 1
     },
     {
-        "name": "35. Las disartrias son sinónimos de dislalias funcionales o dinámicas",
+        "name": "376. Las disartrias son sinónimos de dislalias funcionales o dinámicas",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4501,7 +4201,7 @@
         "answerIndex": 1
     },
     {
-        "name": "36. En la enfermedad de Turner, se da psicopatología en la adolescencia",
+        "name": "377. En la enfermedad de Turner, se da psicopatología en la adolescencia",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4513,7 +4213,7 @@
         "answerIndex": 1
     },
     {
-        "name": "37. En los espasmos de la vejiga sólo cabe tratamiento médico",
+        "name": "378. En los espasmos de la vejiga sólo cabe tratamiento médico",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4525,7 +4225,7 @@
         "answerIndex": 1
     },
     {
-        "name": "38. El Síndrome de Down se da en la misma proporción que en la esquizofrenia",
+        "name": "379. El Síndrome de Down se da en la misma proporción que en la esquizofrenia",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4537,7 +4237,7 @@
         "answerIndex": 1
     },
     {
-        "name": "39. En los RM es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario",
+        "name": "380. En los RM es inútil e innecesario usar mediadores, mientras que con el autismo ocurre lo contrario",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4549,7 +4249,7 @@
         "answerIndex": 1
     },
     {
-        "name": "40. En los TGD y en el Síndrome de Turner, hay problemas de socialización de forma endógena",
+        "name": "381. En los TGD y en el Síndrome de Turner, hay problemas de socialización de forma endógena",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4561,7 +4261,7 @@
         "answerIndex": 1
     },
     {
-        "name": "41. El DSM­IV es altamente objetivo",
+        "name": "382. El DSM­IV es altamente objetivo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4573,7 +4273,7 @@
         "answerIndex": 1
     },
     {
-        "name": "42. El asma o la obesidad están relacionadas en su etiología con una dishabilidad para afrontar el problema",
+        "name": "383. El asma o la obesidad están relacionadas en su etiología con una dishabilidad para afrontar el problema",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4583,21 +4283,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "44. Asma y obesidad se regulan por el aprendizaje",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "45. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad",
+        "name": "385. Después de comer los bulímicos purgativos y los obesos dejan de sentir ansiedad",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4607,21 +4295,9 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "46. Los movimientos coreicos no se pueden realizar voluntariamente y por ello no son efectivos los tratamientos de modificación de conducta",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
-        "name": "48. El síndrome de Rett en contraste con el de Asperger, presenta una grave alteración del desarrollo del lenguaje expresivo y receptivo",
+        "name": "386. Los movimientos coreicos no se pueden realizar voluntariamente y por ello no son efectivos los tratamientos de modificación de conducta",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4631,21 +4307,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "49. Según la categorización realizada por Achenbach los trastornos de ansiedad se encuadran dentro de los trastornos de externalización",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "50. Según el concepto prototípico de categoría, la pertenencia categorial es una cuestión de grado que puede medirse",
+        "name": "393. El síndrome de Down, igual que el de Klinesfelter, se debe a una aberración de un cromosoma ligado al sexo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4657,7 +4321,7 @@
         "answerIndex": 1
     },
     {
-        "name": "51. La etiología del síndrome de West es una encefalopatía",
+        "name": "397. En el síndrome de Hunter la hiperactividad en algunos casos va en desarrollo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4667,21 +4331,9 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "52. El trastorno disocial y la hiperactividad se asemejan en la intencionalidad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
-        "name": "53. En un trauma psicológico infantil, como por ejemplo un abandono, se puede encontrar el origen de un trastorno generalizado del desarrollo",
+        "name": "400. Las conductas estimulantes, estereotipadas y autolesivas sirven para diferenciar a los autistas de los niños con retraso mental",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4691,318 +4343,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "54. El síndrome de Down, igual que el de Klinesfelter, se debe a una aberración de un cromosoma ligado al sexo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "55. El modelo operante es inadecuado para la anorexia con fobia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "56. El autismo presenta una dificultad para interpretar el refuerzo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "57. La galactosemia puede provocar retraso mental a pesar de tener un tratamiento médico si hace dos años que fue diagnosticada",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "58. En el síndrome de Hunter la hiperactividad en algunos casos va en desarrollo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "59. Bulimia voraz y anorexia tienen distorsión de la imagen corporal",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "60. En la bulimia voraz hay ansiedad después de cada atracón",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "61. Las conductas estimulantes, estereotipadas y autolesivas sirven para diferenciar a los autistas de los niños con retraso mental",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "62. Las ecolalias sirven para distinguir autistas de retraso mental",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "63. A un niño de 13 años que debido a una lesión cerebral producida por un accidente desarrolla retraso mental se le puede diagnosticar demencia más retraso mental",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "64. La galactosemia tratada un año después de ser diagnosticada evitará el retraso menta",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "65. Los síndromes de Downs afectados por mosaicismo tienen un CI inferior",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "66. Los atetósicos son temerosos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "67. Para distinguir entre atetosis y rigidez debe atenderse al reflejo de Babinsky",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "68. El estado crepuscular se caracteriza por ausencias continuadas y automatismos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "69. El aura presente en las crisis parciales indica en qué lugar comienza la crisis",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "70. La migraña común es unilateral y presenta síntomas prodromales",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "71. Las cefaleas tensionales son bilaterales y pueden extenderse a toda la cabeza",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "72. Las fisuras velopalatinas son una causa frecuente de disglosias",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "73. Los afásicos al igual que los autistas no mantienen contacto ocular aunque son mejores en lenguaje",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "74. Los anoréxicos tienen una fuerte falta de apetito",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "75. Modelado es una técnica eficaz para niños no cooperativos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "76. Es bueno ir acostumbrando a los niños con RM a mensajes contradictorios",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "77. El síndrome de Wilson y Hemiplejia sin tratamiento tienen en común un buen pronóstico evolutivo para el CI",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "78. El control del pis se hace más rápido con reforzamiento parcial que contingente y también es más resistente a la extinción",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "21. Y los mosaicismos son los que presentan mejor CI y rasgos morfológicos menos acusados",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "80. Los TGD y el RM tienen en común el deterioro cualitativo en el desarrollo de la interacción social",
@@ -5015,18 +4355,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "81. El estado crepuscular consiste en una ausencia alargada que se acompaña de automatismos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "82. Un niño con RM grave o profundo responderá mejor a los tratamientos conductuales que a los cognitvos",
@@ -5053,66 +4381,6 @@
         "answerIndex": 0
     },
     {
-        "name": "84. Las rinolalias cerradas afectan a: pato,pelota y gaviota",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "85. El acto de dar un beso a un ser querido no se ve afectado por la apraxia ideomotri",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "86. En la dislalia endógena y en la específica hay diferencias en la etiología",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "87. En el tratamiento con anoréxicos solo se usa condicionamiento clásico",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "88. En la corea de Hungtinton los tics pueden ser modificables",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
         "name": "89. En el RM, los programas de refuerzo no son necesarios si queremos que el niño mantenga un alto nivel de imitación",
         "answers": [
             {
@@ -5125,582 +4393,6 @@
         "answerIndex": 1
     },
     {
-        "name": "90. La falta de apetito es común de la depresión y de la anorexia infantil",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "91. El síndrome de Down y Wilson comienzan a los 2­3 años",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "92. La reversibilidad del asma es un aspecto diferenciador de otras enfermedades pulmonares",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "93. En las fobias existe un miedo desproporcionado al objeto pero el niño es consciente de su irracionalidad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "94. En los síndromes de Turner, Sach y Klinesfelter existe tanto demencia como RM",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "95. Las disartrias tienen explicación neuropsicológica",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "96. Las ideas de suicidio, bajo estado de ánimo, etc., definen la depresión en la infancia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "97. La purga, psicopatología adicional moderada­grave y emociones en la ingesta diferencian a la bulimia de otros trastornos en la alimentación",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "98. A nivel estructural ocurre las dislalias finales o dinàmicas las cuales tienen dèficits en la construcción de palabras pero no en sílabas",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "99. En los cólicos de la primera semana, el rechazo de la comida es más de tipo interactivo que constitucional",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "100. El pequeño mal epiléctico se caracteriza por una fase incompleta tónica y ausencia de la drómica",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "102. La migraña clásica presenta síntomas prodrómicos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "103. Frente al DSM los estudios empíricos tienen la ventaja de ofrecer datos con estabilidad transituacional, utilizando el método reflexivo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "104. En wilson y hemiplejias derechas sin tratamiento pueden tener con el tiempo buen pronóztico de su CI",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "105. El autista, al igual que la afasia de desarrollo, presenta juego imaginativo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "106. El aura epiléctica se da al inicio del pequeño mal",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "107. La depresión infantil y las anorexias tienen en común la falta de apetito",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "109. La distimia se acompaña de alucinaciones y delirios",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "111. La ecolalia es típica y exclusiva del autismo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "112. A nivel estructural, ocurren las dislalias fonales o dinámicas, las cuales tienen déficit en la construcción de palabras y no en sílaba",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "113. Como los espamos, el inicio de los tics no tiene finalidad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "114. La evitación escolar es un criterio para el diagnóstico de la ansiedad excesiva",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "115. La pérdida o aumento de apetito, sin régimen, es un criterio suficiente para el diagnóstico de depresión mayor",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "116. La fobia escolar, aparte de la conducta de evitación, los niños evitan estar en casa",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "117. El cuadro depresivo infantil puede tener su causa en el consumo de drogas",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "118. Los trastornos que se producen en la obesidad son mayores en la persona obesa desde la adolescencia que desde adulta",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "120. En la epilepsia para tratar la fobia, se usan únicamente técnicas de condicionamiento clásico",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "121. En las maduropatías, la variable somatógena se refiere a problemas orgánicos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "122. En las maduropatías, la variable etógena se refiere a problemas de ambiente",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "123. Una de las causas del RM es el excesivo proteccionismo de los padres",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "124. La bulimia voraz se puede diagnosticar si hay una psicopatología normal­moderada y emociones al comer",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "125. El pequeño mal epiléptico mioclónico o miotónico son convulsiones de manos y pie",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "126. En el tratamiento con anoréxicos solo se usa el condicionamiento clásico",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "127. En la conducta disocial, la dificultad para controlar impulsos la diferencia de la hiperactividad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "128. En el síndrome de Wilson, cuando hay deterioro mental solo cabe diagnosticar RM y nunca demencia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "129. El castigo es una técnica eficaz para controlar las conductas autoestimulativas y repetitivas",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "130. Factores de deprivación sociocultural los podemos encontrar en maduropatía somatógena postnatal",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "131. Según Piaget, el proceso de acomodación en RM se forma de manera inadecuada",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "132. Los rígidos y espásticos tienen un CI mayor que los atetósicos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "133. Las deficiencias en inteligencia aparecen muy determinadas por hemiplejia del lado derecho",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "134. Los espásticos son los paralíticos cerebrales que tienen mejor fluidez verbal",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "135. La frecuencia de deficiencia mental es más del doble en la hemiplejia derecha del cerebro que en la izquierda",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "136. Las crisis epilépticas durante las primeras semanas de vida de un niño se caracterizan por ser subcorticales y sincrónicas",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "138. En las epilepsias, las ausencias atípicas se pueden dar en S. Lennox­ Gastaut",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "139. La cefalea tensional y la migraña tienen base vascular (vasoconstricción + vasodilatación)",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "140. Una afasia antes de los 9 años, si se trata tiene un buen pronóstico, aunque sea bilateral",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "141. El asma tratada con relajación produce el mismo efecto que la extinción de la tos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "142. La autoevaluación en la anorexia y en la bulimia están altamente modulados por el peso y la figura",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "143. Tanto en la distimia infanto­juvenil, como en la depresión puede aparecer irritabilidad",
         "answers": [
             {
@@ -5711,114 +4403,6 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "144. El espasticismo se acompaña con dificultad para manejar conceptos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "145. En drogadicciones aparecen asociadas a la intención de consumo con la intenligencia general",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "146. El tópico/creencia errónea sobre sust. psicoactiva lleva al consumo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "147. Watson es el creador de las \"biografías infantiles",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "148. En paris nace la psic. infantil",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "150. Achenbach, con su clasificación internalizante ­externalizante, permite empíricamente establecer diferencias entre los individuos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "152. La demencia a los 18 años es sinónimo de RM",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "153. En la corea de Hungtinton la afectación psicopatológica se manifiesta solo en adultos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "154. El asma se puede eliminar completamente con el tratamiento conductual",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
         "name": "1. Calvino y Lutero demonismo",
@@ -5903,150 +4487,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "13. TDAH prefiere auditivo a semántico",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "14. Atetosis y Espásticos huyen del afecto",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "15. Apraxia Ideatoria se examina con doblar papel",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "16. Los estudios de anorexia gemelar han demostrado que se da simultáneamente en las dos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "20. Los niños que han sufrido malos tratos y castigos sufren depresión e impulsividad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "2. Hay datos positivos de predisposición de consumo de drogas con la asertividad y la desmotivación escolar",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "3. Wilson está relacionado con Demencia y RM excluyendo los trastornos ligados al sexo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "4. A la edad de 5 años, los niños dicen con mejor fluidez la R, LL y Z",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "5. Obesidad­Normalidad­Delgadez, varían considerablemente a lo largo de la vida como trastorn",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "6. En la definición originaria de la anorexia en la adolescencia aparece desde el inicio el concepto de anemia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "7. Los problemas estructurales del lenguaje y la gramática están menos relacionados con dislalia que disartri",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "8. Según Achenber y Edelnock, los informes de maestros y compañeros correlacionan más que los informes de padres",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "9. La terapia más prometedora con TDAH es actuar directamente sobre la conducta disruptiva extinguiéndola o reduciéndola",
@@ -7909,43 +6349,7 @@
         "answerIndex": 0
     },
     {
-        "name": "16. Watson es el creador de las biografías infantiles",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "17. Lutero asociaba las convulsiones al demonismo",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "18. La irritabilidad es una característica común de la depresión en la infancia y en la edad adulta",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "19. Las ideas de suicidio y bajo estado de ánimo definen la depresión en la infancia",
         "answers": [
             {
                 "name": "Verdadero"
@@ -8473,18 +6877,6 @@
         "answerIndex": 0
     },
     {
-        "name": "63. La hemofilia y la diabetes de forma indirecta pueden ser causa de retraso mental",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "64. En el diagnóstico del discapacidad intelectual profundo se puede prescindir del criterio de adaptabilidad social",
         "answers": [
             {
@@ -8509,18 +6901,6 @@
         "answerIndex": 0
     },
     {
-        "name": "66. La galactosemia puede provocar retraso mental a pesar de tener un tratamiento médico si hace dos años que fue diagnosticada",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "67. A un niño de 13 años que debido a una lesión cerebral producida por un accidente desarrolla retraso mental se le puede diagnosticar demencia + retraso mental",
         "answers": [
             {
@@ -8533,67 +6913,7 @@
         "answerIndex": 1
     },
     {
-        "name": "68. Es bueno ir acostumbrando a los niños con retraso mental a mensajes contradictorios",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "69. Los trastornos generalizados del desarrollo y el retraso mental tienen en común el deterioro cualitativo en el desarrollo de la interacción social",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "70. Un niño con retraso mental grave o profundo responderá mejor a los tratamientos conductuales que los cognitivos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "71. En el retraso mental los programas de refuerzo no son necesarios si queremos que mantenga un alto nivel de imitación",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
         "name": "72. Turner, Wilson, Jacob y Leureux tienen retraso mental y demencia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "73. La galactosemia, tratada un año después de ser diagnosticada evitará un RM",
         "answers": [
             {
                 "name": "Verdadero"
@@ -8639,18 +6959,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "77. Una de las causas del RM es el excesivo proteccionismo de los padres",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "78. Desde la teoría del procesamiento de la información, los niños con RM presentan una memoria a corto plazo menos que los niños normales",
@@ -8917,30 +7225,6 @@
         "answerIndex": 0
     },
     {
-        "name": "100. y síntomas psicopatológicos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "101. La purga, psicopatología adicional moderada-grave y emociones en la ingesta diferencian a la bulimia de otros trastornos en la alimentación",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
         "name": "104. La enuresis noctura es la que mayor prevalencia tiene",
         "answers": [
             {
@@ -9013,18 +7297,6 @@
         "answerIndex": 1
     },
     {
-        "name": "112",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "113. La taquipnea puede ser un síntoma prodromal del ataque asmático. Uno de los logros de la terapia psicológica consiste en llegar a evitar del todo los procesos asmáticos",
         "answers": [
             {
@@ -9061,55 +7333,7 @@
         "answerIndex": 0
     },
     {
-        "name": "117. pulmonare",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "118. tos",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "119. Las personas con migraña tienden a ser rígidos, perfeccionistas y más neuróticos, según las teorías de la personalidad",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "120. Las cefaleas tensionales son bilaterales y pueden extender a toda la cabeza",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "122. La cefalea tensional y la migraña tienen base vascular (vasoconstricción + vasodilatación)",
         "answers": [
             {
                 "name": "Verdadero"
@@ -9445,18 +7669,6 @@
         "answerIndex": 0
     },
     {
-        "name": "180. En las epilepsias, las ausencias atípicas se pueden dar en S. Lennox-Gastaut",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "181. En la apraxia constructiva está imposibilitada la construcción y la copia de dibujos o figuras",
         "answers": [
             {
@@ -9539,18 +7751,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "192. Los tics se realizan durante el sueño",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "1. Un investigador decide hacer un estudio y posteriormente recoge una única muestra de datos de una población. Se trata de un estudio prospectivo",
@@ -10357,18 +8557,6 @@
         "answerIndex": 1
     },
     {
-        "name": "68. Los abusos sexuales conllevan siempre TEPT e hiperactivida",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
         "name": "69. Después de un evento traumático, según el DSM5, solamente se podría realizar el diagnóstico de trastorno de adaptación cuando la respuesta al mismo no cumple los criterios del trastorno de estrés agudo",
         "answers": [
             {
@@ -10465,18 +8653,6 @@
         "answerIndex": 0
     },
     {
-        "name": "77. El D",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "78. La diferencia entre el trastorno depresivo mayor y el episodio mayor es la gravedad",
         "answers": [
             {
@@ -10559,18 +8735,6 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "2",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
         "name": "86. En el trastorno bipolar tipo II se dan episodios maniacos e hipomaniacos",
@@ -11485,42 +9649,6 @@
         "answerIndex": 0
     },
     {
-        "name": "28. La migraña común es unilateral y presenta síntomas prodomale",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "29. Las cefaleas tensionales son bilaterales y pueden extender a toda la cabez",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "30. Las fisuras velopalatinas son una causa frecuente de disglosia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "31. Modelado es una técnica eficaz para niños no cooperativo",
         "answers": [
             {
@@ -11533,55 +9661,7 @@
         "answerIndex": 1
     },
     {
-        "name": "32. El control del pis se hace más rápido con reforzamiento parcial que contingente y también es más resistente a la extinció",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "33. Las rinolalias cerradas afectan a: pato, pelota y gaviot",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "34. El acto de dar un beso a un ser querido no se ve afectado por la apraxia ideomotri",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "35. En los cólicos de la primera semana, el rechazo de la comida es más de tipo interactivo que constituciona",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
-        "name": "36. La migraña clásica presenta síntomas prodrómico",
         "answers": [
             {
                 "name": "Verdadero"
@@ -11627,30 +9707,6 @@
             }
         ],
         "answerIndex": 0
-    },
-    {
-        "name": "41. Factores de deprivación sociocultural los podemos encontrar en maduropatía somatógena postnata",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "42. La cefalea tensional y la migraña tienen base vascular (vasoconstricción + vasodilatación",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
     },
     {
         "name": "43. El espasticismo se acompaña con dificultas para manejar concepto",
