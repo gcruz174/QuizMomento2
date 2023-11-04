@@ -4405,18 +4405,6 @@
         "answerIndex": 0
     },
     {
-        "name": "2. Hall y cuestionarios de padres",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
-    },
-    {
         "name": "4. Anorexia, Bulimia Purga, alteración de silueta corporal",
         "answers": [
             {
@@ -4598,18 +4586,6 @@
     },
     {
         "name": "4. La Casablanca decía: “ no a la infancia",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 1
-    },
-    {
-        "name": "5. Los estoicos, manía, melancolía y psicosis (Tª Preum",
         "answers": [
             {
                 "name": "Verdadero"
@@ -4967,18 +4943,6 @@
             }
         ],
         "answerIndex": 1
-    },
-    {
-        "name": "18. Autismo con gesto",
-        "answers": [
-            {
-                "name": "Verdadero"
-            },
-            {
-                "name": "Falso"
-            }
-        ],
-        "answerIndex": 0
     },
     {
         "name": "0.60, se diagnostica como RM según el DSM­I",
