@@ -9,8 +9,12 @@
             "fileName": "fis"
         },
         {
-            "name": "PSICOLOGÍA",
-            "fileName": "psicologia"
+            "name": "PSICOPATOLOGÍA 1",
+            "fileName": "psicopatologia1"
+        },
+        {
+            "name": "PSICOPATOLOGÍA 2",
+            "fileName": "psicopatologia2"
         }
     ]
 }

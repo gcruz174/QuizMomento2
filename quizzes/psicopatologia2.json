@@ -1,0 +1,2846 @@
+[
+    {
+        "name": "La psicopatología es una disciplina más aplicada que básica.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Que determinada conducta de un individuo produzca una falta de adaptación a su entorno nos indica que estamos ante un comportamiento anormal",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La violación de los códigos ideales y morales es un criterio de conducta patológica.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para el criterio estadístico la conducta anormal es cuestión de grado",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El concepto de que ninguna conducta es por sí misma anormal, hace referencia a la importancia del binomio contexto-conducta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El paralelismo insostenible hace referencia a que el concepto de normalidad no se somete al modelo de enfermedad física",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La afirmación: las enfermedades mentales que, si son enfermedades y son mentales, es una crítica que hace Bandura con el modelo conductual al modelo médico o biológico de la conducta anormal",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Un comportamiento socialmente anómalo es considerado por el DSM 5 como trastorno mental",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La función alterada vs contenido se puede observar en las alucinaciones, donde la función perceptiva está alterada, a diferencias de los delirios, que se trata de la función cognitiva.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Una persona egosintónica acepta su problema y lo considera patológico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Una persona egodistónica reconoce que su problema es patológico y se rebela contra ellas, no lo acepta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Una versión mejorada de la definición de salud mental es que es un estado de equilibrio, dinámico, mejorable y fluctuante",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El modelo biológico de conducta anormal asume la continuidad entre lo normal y lo patológico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "No existe evidencia de que los trastornos mentales sean causados por un desequilibrio químico, o de que los fármacos funcionan corrigiéndolos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El modelo conductual de conducta anormal considera al individuo como un ser pasivo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El denominado enfoque transdiagnóstico es representativo de los modelos que asumen la multicausalidad de los trastornos mentales",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El modelo integrador en psicopatología propuesto por Castro, es transdiagnóstico porque asume la necesidad de centrar la investigación de psicopatología en factores causales y específicos, a cada una de las categorías diagnósticas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el enfoque transdiagnóstico de Castro, en las clases estructurales de respuesta se relacionan covariaciones de síntomas con características neuroanatómicas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el modelo transdiagnóstico de Castro, las “clases estructurales de respuesta” son covariaciones de respuesta con sustratos neuroanatómicos comunes",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el modelo transdiagnóstico de Castro, las “clases estructurales de respuesta” son covariaciones de respuesta con sustratos neuroanatómicos claramente diferenciados",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El modelo integrador de Castro asume que la psicopatología en sus diferentes manifestaciones surge de la interacción de las siguientes dimensiones: biológicas, culturales y ambientales",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Los síntomas de un ataque de pánico, dentro del modelo transdiagnóstico de Castro, son un ejemplo de clases funcionales de respuesta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Según Vázquez, los modelos CIE y DSM son clasificaciones cualitativas de carácter dicotómico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Una de las razones que hacen que los sistemas clasificatorios DSM/CIE continúen teniendo tanto éxito, es su rigor científico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Siguiendo los criterios del DSM-5 las reacciones del duelo normales tras la pérdida de un ser querido pueden considerarse como un trastorno de adaptación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La idea a la base de la alternativa RDoC es que los sistemas DSM/CIE frenan el avance científic",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La alternativa RDoC plantea llegar a construir un sistema clasificatorio con espíritu dimensional.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según Silva y Aragón (2014), la tendencia actual en la epidemiología psicopatología es considerar que los trastornos psicológicos se presentan de manera dicotómica y no a lo largo de un continuo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La investigación epidemiológica conductual/social es una herramienta política de salud pública que habitualmente está infrautilizada",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La epidemiología analítica investiga los factores que influyen para padecer los trastornos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Cuando una prueba detecta un trastorno en una persona que realmente no lo tiene, eso se llama",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Cuando hacemos una prueba lo ideal es que la sensibilidad de 0 y la especificidad 1",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Un estudio transversal puede ser retrospectivo y prospectivo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Un investigador decide hacer un estudio y posteriormente recoge una única muestra de datos de una población. Se trata de un estudio prospectivo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En las distorsiones, los órganos de los sentidos se encuentran afectados",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En las alucinaciones perceptualistas las personas reaccionan frente a un estímulo que creen que está presente",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En las alucinaciones intelectualistas se percibe la alucinación como auténtica",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En psicopatología, cuando hablamos de una experiencia similar a la percepción que ocurre en presencia de un estímulo inapropiado, nos podemos estar refiriendo a una alucinación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Cuando Pepito va de acampada al monte se queda mirando al fuego y ve caras en él hace referencia a una ilusión",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En las alucinaciones liliputienses la persona ve figuras gigantescas que deambulan por la estancia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En las alucinaciones gulliverianas la persona ve figuras distorsionadas con respecto al tamaño",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La formicación es una alucinación háptica/táctil.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las alucinaciones se pueden presentar de forma simultánea en más de una modalidad sensorial",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las denominadas pseudoalucinaciones son experiencias perceptivas que se producen en el plano subjetivo interno",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Pseudoalucinaciones y alucinaciones tienen en común el reconocimiento de subjetividad por parte de quien la experimenta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Las pseudoalucinaciones, a diferencia de las alucinaciones suelen presentarse en personas sanas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la autoscopia negativa la persona se pone frente a un espejo y no se ve",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las imágenes alucinógenas/alucinoides se producen en ausencia de estímulos concretos que las activen.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las ideas delirantes se encuentran presentes en trastornos metabólicos y endocrinológicos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las verdades ideas delirantes solo se encuentran presentes en trastornos psicopatológicos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Psicodislépticos producen alucinaciones",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los delirios son creencias anormales que no son compartidas por otros y que generan malestar o interfieren en la vida del individuo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los delirios primarios modifican la personalidad del individuo y hacen que su vida cambie radicalmente",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La percepción delirante es la interpretación delirante de una percepción aberrante",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Los delirios secundarios, a diferencia de los primarios, surgen muchas veces tras experiencias emocionales,  por lo que en ocasiones se consideran comprensibles",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los delirios de referencia objetos o sucesos neutros tienen una nueva significación con el individuo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los delirios nihilistas/de negación los pacientes creen que los demás no existen solo él",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el Síndrome de Capgras, las personas creen que determinadas personas son impostores y que están falseando la identidad de alguien",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El miedo es adaptativo y surge a raíz de peligros reales",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La ansiedad es una respuesta anticipatoria de amenaza futura y se manifiesta con fuente objetiva de peligro",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La ansiedad es una respuesta autonómica",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "pero no puede hacer nada para controlarlo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Se puede considerar que una fobia es una forma de miedo ante una amenaza razonable",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Los ataques de pánico se pueden producir en el contexto de cualquier trastorno de ansiedad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para Barlow (1988) el ataque de pánico “señalado/esperado” no estaría desencadenado por señales ambientales.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Para Barlow (1998) el ataque de pánico “señalado/esperado” estaría desencadenado por señales ambientales",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los trabajos de Klein (1964) sobre la imipramina le llevan a concluir que la diferencia entre la ansiedad crónica y la aguda (pánico espontáneo) es cualitativa",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Estudios con imipramina demostraron que la ansiedad crónica difiere cualitativamente de la aguda (pánico)",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En cuanto al diagnóstico diferencial entre fobia específica y agorafobia, entre otras cosas se tiene en cuenta la cantidad de situaciones a evitar",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Según el DSMV el TAS suele aparecer en la mitad de la adolescencia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Caballo et al (2014) señala que en los criterios de trastorno de ansiedad social del DSM5 se reconoce los siguientes tres tipos de situaciones sociales temidas: las de observación, las de interacción y las de ejecución",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Miedo a los síntomas y miedo a situaciones, son dos elementos clave de la conceptualización de la fobia social",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Miedo a los síntomas y miedo a situaciones, son dos elementos clave en la conceptualización de la agorafobia.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El especificador “sólo actuación” en trastorno de ansiedad social se refiere a evitación de situaciones donde no hay actuación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Un ataque de pánico es lo mismo que un trastorno de pánico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El DSM-5 establece como criterio diagnóstico para la agorafobia, entre otros, la presencia de un miedo intenso en dos o más de entre cinco situaciones características concretas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el DSM 5 es posible el diagnóstico de agorafobia sin que el paciente experimente ataques pánicos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Existe una gran similitud entre las situaciones temidas en la agorafobia y en la fobia específica situacional.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las manifestaciones cognitivas del TAG (trast. ansiedad generalizada) normalmente son de contenido muy específico y concreto",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La preocupación excesiva e incontrolable es característica diagnóstica del trastorno por ansiedad social",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno de ansiedad generalizada se caracteriza por tener alteraciones del sueño",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La ansiedad generalizada se relaciona con un alto nivel de activación autonómica",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El concepto freudiano de “ansiedad flotante” tiene que ver con evitación fóbica y episodios de pánico.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el TOC los pacientes suelen pensar que sus obsesiones son racionales y lógicas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el trastorno obsesivo-compulsivo, “rituales mentales” y “obsesiones” son términos equivalentes",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el TOC los rituales o compulsiones pueden ser encubiertos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el TOC sus obsesiones o bien resultan exageradas o bien no se conectan de manera realista con lo que pretenden evitar",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El miedo al desorden y suciedad es una obsesión",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el TOC rezar mentalmente es más frecuente que limpiar y comprobar",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno obsesivo-compulsivo suele tener un comienzo gradual",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno obsesivo-compulsivo suele tener un comienzo gradual o insidioso, la persona poco a poco va con esos rituales que comienzan de manera no clínica y poco a poco se van extendiendo, alargando e intensificando hasta ser un problema importante",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Una pobre comprensión del TOC (pobre introspección) se asocia con una mayor gravedad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según Cruzado, en el TOC, los conceptos de neutralización y compulsión son intercambiables",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Dismorfia muscular en el TOC",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La recogida de un número elevado de animales es una de las formas que pueden adoptar los trastornos de acumulación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los elementos más comúnmente guardados en el trastorno de acumulación son: comida en descomposición, restos orgánicos y heces",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La tricotilomanía presenta alta comorbilidad con el TOC.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La tricotilomanía suele implicar la zona de las axilas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el trastorno de excoriación la persona tiende a arañarse, pellizcarse o morderse la propia piel",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Si no hay una experiencia traumática, no se puede diagnosticar",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Valencia positiva, sensación de control y presentación inesperada son características necesarias para que un evento pueda ser traumático",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Es de gran importancia considerar el factor tiempo antes de diagnosticar",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno por estrés postraumático siempre viene precedido por la exposición directa a un acontecimiento traumático",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La exposición por presencia directa a detalles hace referencia a las personas que continuamente tiene que estar lidiando con experiencias traumáticas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los flashback postraumáticos son recuerdos muy vívidos de lo que sucedió antes y durante los sucesos traumáticos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La duración de los síntomas del TEPT debe ser superior a un mes",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el TEPT retardado puede haber síntomas de evitación al principio, aunque atenuados",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno por estrés postraumático con expresión retardada, los síntomas evitativos pueden estar presentes desde el principio aunque de forma atenuada",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El TEPT puede estar presente entre el 1% y 3% de quienes sufren un suceso traumático",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno de estrés agudo tiende a ser crónico con oscilaciones",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El DSM-5 agrupa los síntomas del trastorno por estrés agudo en los siguientes grupos: intrusión, ánimo negativo, disociativo, evitación y alerta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Después de un evento traumático, según el DSM 5, solamente se podría realizar el diagnóstico de trastorno de adaptación cuando la respuesta al mismo no cumple los criterios del trastorno de estrés agudo.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La emocion es más intensa pero menos duradera que el estado de ánimo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El estado de ánimo suele tener un inicio y final delimitado",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La tríada cognitiva de Beck implica una lente distorsionada, una visión negativa de sí mismo, del mundo y del futuro",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la depresión está activado aunque de forma baja el sistema autonómico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para que se cumpla el criterio A para “episodio de depresión mayor” (DSM-5), deben  cumplirse necesariamente: A.1 (Estado de ánimo deprimido…) y A.2 (Disminución del  interés o el placer…), junto a otros tres del listado",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las tasas de prevalencia de la depresión son de aproximadamente el doble en hombres que en mujeres en casi todos los estudios.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el duelo, el dolor suele ser más persistente y generalizado que en la depresión",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el DSM 5 el malestar emocional ante la pérdida de un ser querido solo puede ser diagnosticado como un trastorno de adaptación, nunca como una depresión",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Un trastorno de depresión mayor puede durar solo una semana",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno depresivo mayor se puede dar a cualquier edad, aunque su máxima aparición está entre los 25-45 años",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La depresión en niños puede tener enmascarada la incapacidad para controlar los impulsos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El DSMV permite el uso del especificador “con ataques de pánico” en depresión mayor",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La diferencia entre el trastorno depresivo mayor y el episodio mayor es la gravedad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La comorbilidad con el trastorno límite de la personalidad es uno de los factores que aumenta el riesgo de suicidio en el trastorno de depresión mayor",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Cuando una depresión grave mejora, el riesgo de suicidio puede aumentar.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según el DSM-5, un Trastorno de depresión mayor que dure dos años o más, se convierte en un Trastorno depresivo persistente",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La hipersomnia es una de las “características atípicas” del trastorno de depresión mayor (DSM-5)",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Uno de los criterios para diagnosticar trastorno depresivo persistente (DSMV) es que los síntomas deben durar al menos dos meses seguidos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno depresivo persistente tiende a ser crónico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El comienzo tardío de un trastorno depresivo persistente se asocia con presentar un trastorno de personalidad.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Si hablamos de remisión total significa que han pasado mínimo dos meses sin síntomas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno disfórico premenstrual se da durante la semana previa a la menstruación y los síntomas empeoran días después del inicio de la misma",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el trastorno disfórico premenstrual, el diagnóstico se debe confirmar con evaluaciones prospectivas durante mínimo 2 ciclos posteriores, hasta entonces el diagnóstico es provisiona",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno disfórico premenstrual, los síntomas se pueden agravar con la menopausia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el tratamiento de la depresión, la terapia de activación conductual resulta más eficaz que la terapia cognitivo conductual",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la depresión, los placebos tienen un 82% de eficacia, 3 veces más que la ausencia de tratamiento",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los episodios maniaco/hipomaniaco, a diferencia de los episodios depresivos, la conducta se multiplica, se da hiperactividad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Uno de los aspectos conductuales en los episodios depresivos es el abandono, en primer lugar de  las actividades obligatorias y luego las placenteras",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En los episodios maniaco/hipomaníaco se suelen poner en marcha iniciativas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los episodios hipomaníacos, a diferencia de los maníacos, no son tan graves como para causar deterioro u  hospitalización",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Si durante el episodio existen características psicóticas se trata de un episodio hipomaníaco",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Uno de los aspectos cognitivos en los episodios de tipo maníaco e hipomaníaco es una visión grandiosa de sí mismo/a y de los demás",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno bipolar dura como mínimo una semana",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según el DSM 5, un trastorno bipolar podría durar sólo una semana",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Si en algún momento se ha dado o se está dando en la actualidad, un episodio maníaco, en ausencia de síntomas psicóticos, indefectiblemente estamos hablando de un trastorno bipolar I",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Si tenemos un episodio maníaco, un episodio hipomaníaco y síntomas depresivos sin llegar a constituir un episodio de depresión mayor, tenemos un trastorno bipolar II (DSM 5)",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el trastorno bipolar tipo II se dan episodios maníacos e hipomaníacos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La presencia de un solo episodio hipomaníaco, sin más alteraciones, es suficiente para el diagnóstico de un Trastorno bipolar II, según el DSM-5",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Bipolar 1 hay más riesgo de suicidio que en bipolar 2",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En general, los trastornos bipolares suelen tener una aparición más temprana que la depresión y curso",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los trastornos bipolares tienden a ser crónicos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para el diagnóstico de trastorno ciclotímico (D.S.M.5) pueden darse esporádicamente episodios maníacos y/o depresión mayor durante los dos primeros años del trastorno",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la esquizofrenia los síntomas positivos muestran una peor respuesta al tratamiento farmacológico y peor pronóstico que los negativos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En las personas con esquizofrenia, la institucionalización y los fármacos antipsicóticos pueden provocar síntomas negativos.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Lo que Crohn llamó síndrome tipo I, tiende a ser crónico y a presentarse con síntomas negativos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Las alucinaciones más características y frecuentes en la esquizofrenia son las cenestésicas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Si se dan delirios y síntomas negativos de manera importante, durante menos de un mes, se cumple criterio A para esquizofrenia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Una esquizofrenia puede comenzar directamente con una fase activa (criterio A), sin fase prodrómica",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La presencia de factores ambientales desencadenantes es uno de los factores de buen pronóstico en la esquizofrenia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El estupor se considera un síntoma catatónico (DSM-5)",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La ecolalia es un síntoma catatónico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La esquizofrenia es más fuerte en los países del tercer mundo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La coexistencia de un episodio de depresión mayor con síntomas que cumplen el criterio A para esquizofrenia sugiere la presencia de un trastorno esquizofreniforme (DSM-5)",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Para diagnosticar trastorno esquizoafectivo debe haber al menos dos semanas con síntomas psicóticos sin síntomas de estado de ánimo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para diagnosticar trastorno delirante (DSM5), nunca se puede haber cumplido el criterio A para esquizofrenia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno delirante de tipo erotomaníaco (DSMV) consiste fundamentalmente en la presencia de ideas delirantes relativas al sexo y conducta desorganizad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Se ha visto que el trastorno delirante puede comenzar desde la adolescencia a la edad avanzad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Para diagnosticar trastorno psicótico breve deben darse alucinaciones",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la actualidad, los trastornos por síntomas somáticos estarían haciendo referencia a las histerias de conversión + síndrome de briquet",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El término disociación hace referencia a la separación estructurada de los procesos mentales, perturbación o discontinuidad de los mismos, que deberían estar integrados",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El término conversión hace referencia a la tendencia de expresar y experimentar malestar emocional en forma de síntomas somáticos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Dentro de los trastornos disociativos el DSM-5 elimina la categoría diagnóstica de fuga psicógena",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno de identidad disociativo se considera más una proliferación de personalidades que una fragmentación de la identidad",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La identidad primaria y las identidades alternantes se conocen entre sí",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Cuando hay más de una personalidad alternantes, a veces se conocen entre ellas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno de identidad disociativo se dan lapsus de memoria remota",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno de identidad disociativo es diagnosticado de tres a nueve veces más frecuentemente en mujeres que en hombres.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El Trastorno de identidad disociativo es crónico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la amnesia disociativa hay incapacidad para recordar información personal importante, casi siempre asociada a un trauma o situación estresante",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El subtipo de amnesia disociativa sistematizada se refiere a ciertas categorías de información",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El especificador con fuga disociativa está presente en el trastorno de despersonalización",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Durante la fuga disociativa hay recuerdo de lo ocurrido",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Las posesiones demoníacas serían en el DSM-V trastornos de despersonalización/desrealización",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En las sociedades tribales las posesiones eran trastornos de despersonalización",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el trastorno de despersonalización la persona se ve como un observador externo de sí mismo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno de desrealización la persona experimenta distanciamiento con el entorno, es decir, lo percibe como irreal",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los trastornos de desrealización y despersonalización el sentido de la realidad se encuentra afectado",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En los trastornos de desrealización y despersonalización suele haber un suceso estresante previo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Siguiendo los criterios diagnósticos del DSM 5, es necesario que los síntomas somáticos que presenta el paciente en el trastorno por síntomas somáticos, carezcan de explicación médica.",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los trastornos somáticos los síntomas no están bajo control a diferencia del trastorno fáctico o de simulación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En los trastornos somáticos el curso tiende a ser crónico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Quejas gastrointestinales, dérmicas, reproductivas o sexuales son típicas del trastorno de conversión",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Los trastornos de somatización comienzan en la adolescencia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el DSM 5 se emplea el término de histeria únicamente como especificados para los trastornos somatoformes en los que hay una marcada preocupación por una enfermedad concreta",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno de ansiedad por enfermedad la preocupación deber tener una duración mínima de 6 meses",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno de conversión se dan síntomas de alteración de la función motora o sensitiva involuntaria",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El trastorno de conversión viene precedido de la exposición a experiencias traumáticas como el abuso físico y sexual en la infancia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno de conversión, el especificador episodio agudo hace referencia a una duración de los síntomas inferior a 6 meses",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El trastorno facticio se caracteriza por el fingimiento o producción de síntomas físicos o psicológicos con el fin de adoptar el rol de enfermo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno facticio hay un fin por obtener beneficios",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En la simulación hay una producción intencional de síntomas muy exagerados",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La diferencia entre la simulación y el trastorno facticio es hacia el tipo de motivación",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La diferencia entre la simulación y el trastorno de conversión es la intencionalidad acompañada del incentivo externo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "EI DSM5 establece para el hombre un trastorno común a las fases de deseo y de excitación sexual, denominado: Trastorno del interés/excitación sexual masculino",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En la fase de orgasmo, el DSMV recoge dos trastornos para el hombre, pero solo uno para la mujer",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La especificación “de por vida” que establece el DSM-5, con respecto a las disfunciones sexuales, significa que la disfunción tiene carácter crónico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "categoría oficial",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Según el DSM 5, para diagnosticar trastorno eréctil los síntomas deben haber persistido durante tres meses como mínimo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El mantenimiento o la obtención del trastorno de erección en el hombre es el “Rol de espectador”",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según el DSM-5, para diagnosticar el trastorno del interés/excitación sexual femenino los síntomas deben haber persistido durante tres meses como mínimo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El síndrome de excitación genital persistente (no incluido en los manuales), se da en la mujer y la excitación no desaparece con el orgasmo y pueden requerirse varios durante horas o días para remitir",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La disfunción sexual más frecuente en hombres es la eyaculación prematura (precoz) con aproximadamente un 30% de prevalencia en hombres de 18 a 59 años",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno orgásmico femenino, cuando se recibe una estimulación adecuada y hay buena comunicación en la pareja la prevalencia se reduce",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el trastorno de dolor  genito-pélvico / penetración pueden influir las actitudes negativas hacia el sexo y las ideas erroneas fruto de la religión y la cultura",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Podría decirse que la homosexualidad es una variante de la identidad sexual",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La identidad sexual o de género hace referencia a la preferencia homosexual/heterosexual/bisexual de la persona",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "Las parafilias pueden ser consideradas variaciones sexuales más o menos inocuas  (Carrobies, 2014",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La mayoría de las variantes sexuales (parafilia) se gesta en la pubertad y adolescencia",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El exhibicionismo es una de las parafilias más habituales y es considerado un delito",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El fetichismo es muy frecuente y suele darse con prendas femeninas, botas, tacones o partes del cuerpo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En el fetichismo hay un subtipo que es sin objetos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Según el DSM 5, el trastorno de travestismo con fetichismo es lo mismo que trastorno de fetichismo",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En el proteurismo la persona se excita con el roce sin consentimiento de la otra persona y suelen hacerlo en lugares donde hay mucha gente apelotonada",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La pedofilia es más propensa en hombres",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la pedofilia son más frecuentes los casos de tipo heterosexual y son los más resistentes y más graves",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "En la pedofilia un criterio clave es que el parafilico debe tener al menos 16 años y ser 5 años mayor que el niño",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Las edad más frecuente de las victimas de pedofilia está entre los 8 y los 12 años",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la pedofilila, el especificador de tipo no exclusivo, a diferencia del exclusivo, incluye la atracción por niños y adultos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "El masoquismo sexual se caracteriza por la obtención de excitación o placer por parte de una persona ante el sufrimiento físico o psicológico de otro",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "El voyeurismo se caracteriza por la observación de una persona mientras otros están en el acto o desnudos",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Hay una variante del voyeurismo denominada escoptofilia, donde hay acuerdo previo en ser observado",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "La coprofilia es un fetichismo relacionado con las heces",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "En la clismafilia, la persona se excita poniendo enemas",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    },
+    {
+        "name": "Los elementos clave en la disforia de género son la identificación con el otro sexo y la orientación sexual hacia los miembros del mismo sexo biológico",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 1
+    },
+    {
+        "name": "La disforia de género es más frecuente en hombres que en mujeres",
+        "answers": [
+            {
+                "name": "Verdadero"
+            },
+            {
+                "name": "Falso"
+            }
+        ],
+        "answerIndex": 0
+    }
+]
