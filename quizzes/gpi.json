@@ -142,7 +142,7 @@
             "name": "El proceso Verificar el alcance pertenece al grupo de procesos: ",
             "answers": [
                 {
-                    "name": "Seguimiento y control."
+                    "name": "Seguimiento y ."
                 },
                 {
                     "name": "Dirección. "
@@ -214,10 +214,10 @@
             "name": "Eres el director de un proyecto software y un miembro de tu equipo te presenta una propuesta para ir más  rápido y ahorrar un 25% del proyecto. ¿Cuál es la mejor forma que tienes de proceder? ",
             "answers": [
                 {
-                    "name": "Realizar un análisis coste-beneficio y entonces tomar la decisión con criterio controlado."
+                    "name": "Realizar un análisis coste-beneficio y entonces tomar la decisión con criterio ado."
                 },
                 {
-                    "name": "Rechazar la propuesta hasta que dicho cambio sea documentado y se haya efectuado el control de  cambio correspondiente. "
+                    "name": "Rechazar la propuesta hasta que dicho cambio sea documentado y se haya efectuado el  de  cambio correspondiente. "
                 },
                 {
                     "name": "Indicar al equipo que desarrolle la propuesta ya que acorta los plazos y disminuye el coste total del  proyecto de forma considerable. "
@@ -361,7 +361,7 @@
                     "name": "Verificación del alcance."
                 },
                 {
-                    "name": "Control del alcance. "
+                    "name": " del alcance. "
                 },
                 {
                     "name": "Crear EDT. "
@@ -472,7 +472,7 @@
                     "name": "El cronograma no forma parte de la ejecución del proyecto, solo de la planificación. "
                 },
                 {
-                    "name": "El cronograma cambia para adaptarse a cualquier cambio que se produzca, incluso aunque no esté  aprobado por el control de cambios. "
+                    "name": "El cronograma cambia para adaptarse a cualquier cambio que se produzca, incluso aunque no esté  aprobado por el  de cambios. "
                 },
                 {
                     "name": "Se inspecciona el trabajo real y se compara con el cronograma, pero no se modifica. "
@@ -1069,7 +1069,7 @@
             "name": "¿Cuál de las siguientes afirmaciones sobre la EDT es cierta? ",
             "answers": [
                 {
-                    "name": "La EDT contiene paquetes de trabajo organizados en una lista priorizada."
+                    "name": "La EDT contiene paquetes de trabajo. "
                 },
                 {
                     "name": "La EDT es creada por el esponsor del proyecto. "
@@ -1516,7 +1516,7 @@
             "answerIndex": 0
         },
         {
-            "name": "¿Cómo se puede indicar que la tarea sucesora comience tres días después que la predecesora?",
+            "name": "¿Cómo se puede indicar que la tarea sucesora comience tres días después que termine la predecesora?",
             "answers": [
                 {
                     "name": "Ninguna. "
@@ -1543,7 +1543,7 @@
                     "name": "Las peticiones de los cambios aprobadas. "
                 },
                 {
-                    "name": "Las propia peticiones de cambio recomendadas por los interesados. "
+                    "name": "Las propias peticiones de cambio recomendadas por los interesados. "
                 },
                 {
                     "name": "Las peticiones de cambio denegadas."
@@ -1730,24 +1730,6 @@
                 }
             ],
             "answerIndex": 1
-        },
-        {
-            "name": "¿Cuál de los siguientes procesos genera una lista de actividades a parir de la",
-            "answers": [
-                {
-                    "name": "Estimar los recursos de las actividades.  "
-                },
-                {
-                    "name": "Estimar la duración de las actividades. "
-                },
-                {
-                    "name": "Ninguna de ellas."
-                },
-                {
-                    "name": "Secuenciar las actividades. "
-                }
-            ],
-            "answerIndex": 2
         },
         {
             "name": "Tu compañía ha ejecutado varios proyectos similares al que te han encomendado en este momento. ¿Cuál es la mejor forma de usar la información de los proyectos anteriores? ",
