@@ -1117,7 +1117,7 @@
         "answerIndex": 0
     },
     {
-        "name": "pero no puede hacer nada para controlarlo",
+        "name": "La fobia es un miedo aprendido a un estímulo, la persona reconoce que su miedo es excesivo pero no puede hacer nada para controlarlo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -2878,7 +2878,7 @@
                 "name": "Falso"
             }
         ],
-        "answerIndex": 0
+        "answerIndex": 1
     },
     {
         "name": "categoría oficial",
@@ -3022,7 +3022,7 @@
                 "name": "Falso"
             }
         ],
-        "answerIndex": 1
+        "answerIndex": 0
     },
     {
         "name": "El exhibicionismo es una de las parafilias más habituales y es considerado un delito",
