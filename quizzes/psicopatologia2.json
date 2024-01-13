@@ -622,7 +622,7 @@
                 "name": "Falso"
             }
         ],
-        "answerIndex": 1
+        "answerIndex": 0
     },
     {
         "name": "El modelo integrador de Castro asume que la psicopatología en sus diferentes manifestaciones surge de la interacción de las siguientes dimensiones: biológicas, culturales y ambientales",
@@ -1573,7 +1573,7 @@
         "answerIndex": 0
     },
     {
-        "name": "Si no hay una experiencia traumática, no se puede diagnosticar",
+        "name": "Si no hay una experiencia traumática, no se puede diagnosticar TEPT",
         "answers": [
             {
                 "name": "Verdadero"
