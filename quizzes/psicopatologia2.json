@@ -1,7 +1,7 @@
 {
 "questions": [
     {
-        "name": "Cuando una prueba no detecta un trastorno en una persona que realmente lo tiene, eso se llam",
+        "name": "Cuando una prueba no detecta un trastorno en una persona que realmente lo tiene, eso se llama falso negativo",
         "answers": [
             {
                 "name": "Verdadero"
@@ -745,7 +745,7 @@
         "answerIndex": 0
     },
     {
-        "name": "Cuando una prueba detecta un trastorno en una persona que realmente no lo tiene, eso se llama",
+        "name": "Cuando una prueba detecta un trastorno en una persona que realmente no lo tiene, eso se llama falso negativo",
         "answers": [
             {
                 "name": "Verdadero"
