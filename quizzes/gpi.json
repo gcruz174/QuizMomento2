@@ -1087,7 +1087,7 @@
             "name": "Te asignan como director de un proyecto que está ya en la fase de ejecución. Compruebas que no han  realizado el EDT que según el Plan de Gestión del Alcance, debe existir. ¿Qué es lo mejor que puedes hacer? ",
             "answers": [
                 {
-                    "name": "La dejas registrado en la documentación relacionada con las lecciones aprendidas, pero continuas con"
+                    "name": "La dejas registrado en la documentación relacionada con las lecciones aprendidas, pero continuas con el proyecto."
                 },
                 {
                     "name": "Avisar inmediatamente al patrocinador y asegurarte de que el proyecto no se detiene."
