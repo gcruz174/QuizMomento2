@@ -1102,7 +1102,7 @@
             "answerIndex": 3
         },
         {
-            "name": "Tienes que planificar test y puedes comenzar su actividad tan tarde como sea necesario para el proyecto.",
+            "name": "Tienes que planificar tests y puedes comenzar su actividad tan tarde como sea necesario para el proyecto.  ¿Qué tipo de relación hay entre planificar los tests y la actividad de hacer los tests?",
             "answers": [
                 {
                     "name": "Final a Final "
@@ -1328,9 +1328,6 @@
                 },
                 {
                     "name": "Averiguar la forma de comprimir el cronograma para poder trabajar con el equipo de "
-                },
-                {
-                    "name": ""
                 }
             ],
             "answerIndex": 0
@@ -1853,24 +1850,6 @@
                 },
                 {
                     "name": "Ejecución. "
-                }
-            ],
-            "answerIndex": 2
-        },
-        {
-            "name": "Tienes que planificar tests y puedes comenzar su actividad tan tarde como sea necesario para el proyecto.  ¿Qué tipo de relación hay entre planificar los tests y la actividad de hacer los tests? ",
-            "answers": [
-                {
-                    "name": "Final a Final. "
-                },
-                {
-                    "name": "Comienzo a final. "
-                },
-                {
-                    "name": "Final a comienzo."
-                },
-                {
-                    "name": "Comienzo a Comienzo."
                 }
             ],
             "answerIndex": 2
